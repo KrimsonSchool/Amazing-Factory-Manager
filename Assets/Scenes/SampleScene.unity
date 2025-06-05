@@ -250,17 +250,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1fac3e123b01ebfeb43820271b3cf6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  money: 0
+  money: 10000
   income: 0
   expenses: 0
-  shareholderRequest: 
-  employees: 0
+  shareholderRequest: MAKE MONEY
+  employees: 144
   employeeCost: 0
   automatons: 0
   automatonCost: 0
   day: 0
-  term: 0
-  fees: 0
+  productRate: 0
+  productPrice: 20
+  term: 30
+  fees: 350
+  infoText: {fileID: 559732199}
 --- !u!4 &169733125
 Transform:
   m_ObjectHideFlags: 0
@@ -335,7 +338,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -2722882179552219804, guid: 1ad4f9035b627d3f19ee610b01f77633, type: 3}
+  m_Sprite: {fileID: -3795338078714806779, guid: 840c958e96b63f5a597b460cc9b9e55d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
