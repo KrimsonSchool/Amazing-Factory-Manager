@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ffa5323f1dfc5bdcda31a882b5fe9290
+guid: 928189ea537d245fb9ad781b4a60fcad
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4896720477630545233
-    second: ChatGPT Image Jun 4, 2025, 09_36_14 PM_0
+      213: 1385393377381889405
+    second: IMG_0306_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,19 +97,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -126,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ChatGPT Image Jun 4, 2025, 09_36_14 PM_0
+      name: IMG_0306_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1536
-        height: 1024
+        x: 257
+        y: 1253
+        width: 2720
+        height: 1958
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 15dbc899455a4f340800000000000000
-      internalID: 4896720477630545233
+      spriteID: d75b605cfe7e93310800000000000000
+      internalID: 1385393377381889405
       vertices: []
       indices: 
       edges: []
@@ -151,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 049e254da2867435d8311c1eb9224373
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ChatGPT Image Jun 4, 2025, 09_36_14 PM_0: 4896720477630545233
+      IMG_0306_0: 1385393377381889405
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
