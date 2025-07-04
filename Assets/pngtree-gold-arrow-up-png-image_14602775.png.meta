@@ -1,0 +1,4875 @@
+fileFormatVersion: 2
+guid: 0ce18455680295450b383e07fcb1696d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1657720335790401973
+    second: pngtree-gold-arrow-up-png-image_14602775_0
+  - first:
+      213: 4192831745666611378
+    second: pngtree-gold-arrow-up-png-image_14602775_1
+  - first:
+      213: 5233901329553861703
+    second: pngtree-gold-arrow-up-png-image_14602775_2
+  - first:
+      213: 314701250516779945
+    second: pngtree-gold-arrow-up-png-image_14602775_3
+  - first:
+      213: 7929769785211781144
+    second: pngtree-gold-arrow-up-png-image_14602775_4
+  - first:
+      213: -6656045782551040610
+    second: pngtree-gold-arrow-up-png-image_14602775_5
+  - first:
+      213: -5520899218581612014
+    second: pngtree-gold-arrow-up-png-image_14602775_6
+  - first:
+      213: 8852228237618391613
+    second: pngtree-gold-arrow-up-png-image_14602775_7
+  - first:
+      213: -8868430451075836788
+    second: pngtree-gold-arrow-up-png-image_14602775_8
+  - first:
+      213: 3941621871200660112
+    second: pngtree-gold-arrow-up-png-image_14602775_9
+  - first:
+      213: 9196188216851999565
+    second: pngtree-gold-arrow-up-png-image_14602775_10
+  - first:
+      213: -5621796558431486459
+    second: pngtree-gold-arrow-up-png-image_14602775_11
+  - first:
+      213: 4439037418247228019
+    second: pngtree-gold-arrow-up-png-image_14602775_12
+  - first:
+      213: 8965309233815466219
+    second: pngtree-gold-arrow-up-png-image_14602775_13
+  - first:
+      213: -3705963686512581238
+    second: pngtree-gold-arrow-up-png-image_14602775_14
+  - first:
+      213: -466770021073414329
+    second: pngtree-gold-arrow-up-png-image_14602775_15
+  - first:
+      213: -6660016796778125961
+    second: pngtree-gold-arrow-up-png-image_14602775_16
+  - first:
+      213: -8649661793364844141
+    second: pngtree-gold-arrow-up-png-image_14602775_17
+  - first:
+      213: 1451778705544131622
+    second: pngtree-gold-arrow-up-png-image_14602775_18
+  - first:
+      213: 4969138795270600473
+    second: pngtree-gold-arrow-up-png-image_14602775_19
+  - first:
+      213: -1842055704645069450
+    second: pngtree-gold-arrow-up-png-image_14602775_20
+  - first:
+      213: 855671211894300031
+    second: pngtree-gold-arrow-up-png-image_14602775_21
+  - first:
+      213: -8365548426658909533
+    second: pngtree-gold-arrow-up-png-image_14602775_22
+  - first:
+      213: 2896705567936676553
+    second: pngtree-gold-arrow-up-png-image_14602775_23
+  - first:
+      213: 2633636239811343815
+    second: pngtree-gold-arrow-up-png-image_14602775_24
+  - first:
+      213: 636297616156107165
+    second: pngtree-gold-arrow-up-png-image_14602775_25
+  - first:
+      213: -7283741523201499878
+    second: pngtree-gold-arrow-up-png-image_14602775_26
+  - first:
+      213: 7690370734882908491
+    second: pngtree-gold-arrow-up-png-image_14602775_27
+  - first:
+      213: 8649389332632935629
+    second: pngtree-gold-arrow-up-png-image_14602775_28
+  - first:
+      213: 5952982976284421675
+    second: pngtree-gold-arrow-up-png-image_14602775_29
+  - first:
+      213: 3096902256172198123
+    second: pngtree-gold-arrow-up-png-image_14602775_30
+  - first:
+      213: 2493374000481700159
+    second: pngtree-gold-arrow-up-png-image_14602775_31
+  - first:
+      213: -8290404133108417833
+    second: pngtree-gold-arrow-up-png-image_14602775_32
+  - first:
+      213: -7896311521932053379
+    second: pngtree-gold-arrow-up-png-image_14602775_33
+  - first:
+      213: -922320714074136
+    second: pngtree-gold-arrow-up-png-image_14602775_34
+  - first:
+      213: 4625690385000313123
+    second: pngtree-gold-arrow-up-png-image_14602775_35
+  - first:
+      213: 5387343425420460006
+    second: pngtree-gold-arrow-up-png-image_14602775_36
+  - first:
+      213: -1787294606642386850
+    second: pngtree-gold-arrow-up-png-image_14602775_37
+  - first:
+      213: -132763114753385311
+    second: pngtree-gold-arrow-up-png-image_14602775_38
+  - first:
+      213: 7773310810911646192
+    second: pngtree-gold-arrow-up-png-image_14602775_39
+  - first:
+      213: -5641169986835022137
+    second: pngtree-gold-arrow-up-png-image_14602775_40
+  - first:
+      213: -5827728695166562793
+    second: pngtree-gold-arrow-up-png-image_14602775_41
+  - first:
+      213: 2332742835808503232
+    second: pngtree-gold-arrow-up-png-image_14602775_42
+  - first:
+      213: -3468659374919341838
+    second: pngtree-gold-arrow-up-png-image_14602775_43
+  - first:
+      213: -4595474003105719115
+    second: pngtree-gold-arrow-up-png-image_14602775_44
+  - first:
+      213: 5575266310741601220
+    second: pngtree-gold-arrow-up-png-image_14602775_45
+  - first:
+      213: -7884981835325648635
+    second: pngtree-gold-arrow-up-png-image_14602775_46
+  - first:
+      213: 8586321508089204866
+    second: pngtree-gold-arrow-up-png-image_14602775_47
+  - first:
+      213: 3264038027944808842
+    second: pngtree-gold-arrow-up-png-image_14602775_48
+  - first:
+      213: -5286844473695942218
+    second: pngtree-gold-arrow-up-png-image_14602775_49
+  - first:
+      213: -1362318330580912161
+    second: pngtree-gold-arrow-up-png-image_14602775_50
+  - first:
+      213: -1925101802949345042
+    second: pngtree-gold-arrow-up-png-image_14602775_51
+  - first:
+      213: 6807502526011979490
+    second: pngtree-gold-arrow-up-png-image_14602775_52
+  - first:
+      213: -4687078651156408804
+    second: pngtree-gold-arrow-up-png-image_14602775_53
+  - first:
+      213: -7865918190890722187
+    second: pngtree-gold-arrow-up-png-image_14602775_54
+  - first:
+      213: 3288449760124231043
+    second: pngtree-gold-arrow-up-png-image_14602775_55
+  - first:
+      213: 7214448210007239133
+    second: pngtree-gold-arrow-up-png-image_14602775_56
+  - first:
+      213: 4478269251830274229
+    second: pngtree-gold-arrow-up-png-image_14602775_57
+  - first:
+      213: 3687776764207709253
+    second: pngtree-gold-arrow-up-png-image_14602775_58
+  - first:
+      213: 6996319308981676947
+    second: pngtree-gold-arrow-up-png-image_14602775_59
+  - first:
+      213: 6539324188021180052
+    second: pngtree-gold-arrow-up-png-image_14602775_60
+  - first:
+      213: -1907806113483823508
+    second: pngtree-gold-arrow-up-png-image_14602775_61
+  - first:
+      213: 743256182492776055
+    second: pngtree-gold-arrow-up-png-image_14602775_62
+  - first:
+      213: -8031186417534140592
+    second: pngtree-gold-arrow-up-png-image_14602775_63
+  - first:
+      213: -2497035845834144077
+    second: pngtree-gold-arrow-up-png-image_14602775_64
+  - first:
+      213: -5487864487289970289
+    second: pngtree-gold-arrow-up-png-image_14602775_65
+  - first:
+      213: 3551172279643500966
+    second: pngtree-gold-arrow-up-png-image_14602775_66
+  - first:
+      213: 5344485373566632515
+    second: pngtree-gold-arrow-up-png-image_14602775_67
+  - first:
+      213: -621411090347273877
+    second: pngtree-gold-arrow-up-png-image_14602775_68
+  - first:
+      213: -1953117612043530564
+    second: pngtree-gold-arrow-up-png-image_14602775_69
+  - first:
+      213: -5868168326768316700
+    second: pngtree-gold-arrow-up-png-image_14602775_70
+  - first:
+      213: -3515633965557678942
+    second: pngtree-gold-arrow-up-png-image_14602775_71
+  - first:
+      213: -4200898474009656084
+    second: pngtree-gold-arrow-up-png-image_14602775_72
+  - first:
+      213: -1254619664719270928
+    second: pngtree-gold-arrow-up-png-image_14602775_73
+  - first:
+      213: -9002828111999821523
+    second: pngtree-gold-arrow-up-png-image_14602775_74
+  - first:
+      213: -1935217586795279236
+    second: pngtree-gold-arrow-up-png-image_14602775_75
+  - first:
+      213: 4221868252072396932
+    second: pngtree-gold-arrow-up-png-image_14602775_76
+  - first:
+      213: 664740795835667166
+    second: pngtree-gold-arrow-up-png-image_14602775_77
+  - first:
+      213: 7961974312084885770
+    second: pngtree-gold-arrow-up-png-image_14602775_78
+  - first:
+      213: 8981067373780634809
+    second: pngtree-gold-arrow-up-png-image_14602775_79
+  - first:
+      213: 7378367686194498778
+    second: pngtree-gold-arrow-up-png-image_14602775_80
+  - first:
+      213: -5827571009617443736
+    second: pngtree-gold-arrow-up-png-image_14602775_81
+  - first:
+      213: -4027932533455482547
+    second: pngtree-gold-arrow-up-png-image_14602775_82
+  - first:
+      213: 179744503202059790
+    second: pngtree-gold-arrow-up-png-image_14602775_83
+  - first:
+      213: -2986296716349128375
+    second: pngtree-gold-arrow-up-png-image_14602775_84
+  - first:
+      213: 8710425793035438742
+    second: pngtree-gold-arrow-up-png-image_14602775_85
+  - first:
+      213: 4582929269623797919
+    second: pngtree-gold-arrow-up-png-image_14602775_86
+  - first:
+      213: -3777477119084742457
+    second: pngtree-gold-arrow-up-png-image_14602775_87
+  - first:
+      213: -963011596069512664
+    second: pngtree-gold-arrow-up-png-image_14602775_88
+  - first:
+      213: -2189717486066445328
+    second: pngtree-gold-arrow-up-png-image_14602775_89
+  - first:
+      213: 4339087541450770324
+    second: pngtree-gold-arrow-up-png-image_14602775_90
+  - first:
+      213: -4528545471323314423
+    second: pngtree-gold-arrow-up-png-image_14602775_91
+  - first:
+      213: -7715450594761300337
+    second: pngtree-gold-arrow-up-png-image_14602775_92
+  - first:
+      213: -79740761401954558
+    second: pngtree-gold-arrow-up-png-image_14602775_93
+  - first:
+      213: -6824650278904630403
+    second: pngtree-gold-arrow-up-png-image_14602775_94
+  - first:
+      213: 4479279508339939941
+    second: pngtree-gold-arrow-up-png-image_14602775_95
+  - first:
+      213: -8661842706153499993
+    second: pngtree-gold-arrow-up-png-image_14602775_96
+  - first:
+      213: -8736451301425079589
+    second: pngtree-gold-arrow-up-png-image_14602775_97
+  - first:
+      213: 400497868547770656
+    second: pngtree-gold-arrow-up-png-image_14602775_98
+  - first:
+      213: 2389448629542269824
+    second: pngtree-gold-arrow-up-png-image_14602775_99
+  - first:
+      213: 4160835464185847467
+    second: pngtree-gold-arrow-up-png-image_14602775_100
+  - first:
+      213: 3500174168671962117
+    second: pngtree-gold-arrow-up-png-image_14602775_101
+  - first:
+      213: -6560147229750741625
+    second: pngtree-gold-arrow-up-png-image_14602775_102
+  - first:
+      213: 7374225329674952232
+    second: pngtree-gold-arrow-up-png-image_14602775_103
+  - first:
+      213: -6744290366311681061
+    second: pngtree-gold-arrow-up-png-image_14602775_104
+  - first:
+      213: -6563564101166714333
+    second: pngtree-gold-arrow-up-png-image_14602775_105
+  - first:
+      213: -4764864098622752361
+    second: pngtree-gold-arrow-up-png-image_14602775_106
+  - first:
+      213: 4214972760698234249
+    second: pngtree-gold-arrow-up-png-image_14602775_107
+  - first:
+      213: 463145889756224234
+    second: pngtree-gold-arrow-up-png-image_14602775_108
+  - first:
+      213: 8104002563996016938
+    second: pngtree-gold-arrow-up-png-image_14602775_109
+  - first:
+      213: -6425384637303495373
+    second: pngtree-gold-arrow-up-png-image_14602775_110
+  - first:
+      213: -7489081465184985669
+    second: pngtree-gold-arrow-up-png-image_14602775_111
+  - first:
+      213: -7267598327601008880
+    second: pngtree-gold-arrow-up-png-image_14602775_112
+  - first:
+      213: -5447608293096987460
+    second: pngtree-gold-arrow-up-png-image_14602775_113
+  - first:
+      213: 8368515193532569970
+    second: pngtree-gold-arrow-up-png-image_14602775_114
+  - first:
+      213: 5864844269470771905
+    second: pngtree-gold-arrow-up-png-image_14602775_115
+  - first:
+      213: -8527840289132141453
+    second: pngtree-gold-arrow-up-png-image_14602775_116
+  - first:
+      213: 4805029885905233023
+    second: pngtree-gold-arrow-up-png-image_14602775_117
+  - first:
+      213: -5697502378978974136
+    second: pngtree-gold-arrow-up-png-image_14602775_118
+  - first:
+      213: -2683636291339745650
+    second: pngtree-gold-arrow-up-png-image_14602775_119
+  - first:
+      213: -3531775598613263071
+    second: pngtree-gold-arrow-up-png-image_14602775_120
+  - first:
+      213: 4449816520829700284
+    second: pngtree-gold-arrow-up-png-image_14602775_121
+  - first:
+      213: -1464638927301251396
+    second: pngtree-gold-arrow-up-png-image_14602775_122
+  - first:
+      213: -6577261121267196464
+    second: pngtree-gold-arrow-up-png-image_14602775_123
+  - first:
+      213: -4384601380553432876
+    second: pngtree-gold-arrow-up-png-image_14602775_124
+  - first:
+      213: -1675219025101144068
+    second: pngtree-gold-arrow-up-png-image_14602775_125
+  - first:
+      213: 9148426542325063972
+    second: pngtree-gold-arrow-up-png-image_14602775_126
+  - first:
+      213: 7714882722621832357
+    second: pngtree-gold-arrow-up-png-image_14602775_127
+  - first:
+      213: 2578195677243188759
+    second: pngtree-gold-arrow-up-png-image_14602775_128
+  - first:
+      213: -3194238592012834685
+    second: pngtree-gold-arrow-up-png-image_14602775_129
+  - first:
+      213: 3219371778449002288
+    second: pngtree-gold-arrow-up-png-image_14602775_130
+  - first:
+      213: -4853300566617882621
+    second: pngtree-gold-arrow-up-png-image_14602775_131
+  - first:
+      213: -3105454013055283464
+    second: pngtree-gold-arrow-up-png-image_14602775_132
+  - first:
+      213: 8704851323762392125
+    second: pngtree-gold-arrow-up-png-image_14602775_133
+  - first:
+      213: 4565583662883328329
+    second: pngtree-gold-arrow-up-png-image_14602775_134
+  - first:
+      213: -896266877186697733
+    second: pngtree-gold-arrow-up-png-image_14602775_135
+  - first:
+      213: 5881834978232085283
+    second: pngtree-gold-arrow-up-png-image_14602775_136
+  - first:
+      213: 4939692338613196447
+    second: pngtree-gold-arrow-up-png-image_14602775_137
+  - first:
+      213: 9090617585225978289
+    second: pngtree-gold-arrow-up-png-image_14602775_138
+  - first:
+      213: 3153728131838105126
+    second: pngtree-gold-arrow-up-png-image_14602775_139
+  - first:
+      213: -5868822224649450081
+    second: pngtree-gold-arrow-up-png-image_14602775_140
+  - first:
+      213: 7138957954538169722
+    second: pngtree-gold-arrow-up-png-image_14602775_141
+  - first:
+      213: -2077356961969780615
+    second: pngtree-gold-arrow-up-png-image_14602775_142
+  - first:
+      213: 8393498461945002197
+    second: pngtree-gold-arrow-up-png-image_14602775_143
+  - first:
+      213: 1554737820682282443
+    second: pngtree-gold-arrow-up-png-image_14602775_144
+  - first:
+      213: -2468129203204044729
+    second: pngtree-gold-arrow-up-png-image_14602775_145
+  - first:
+      213: -7528762598592259854
+    second: pngtree-gold-arrow-up-png-image_14602775_146
+  - first:
+      213: -4239752979312711860
+    second: pngtree-gold-arrow-up-png-image_14602775_147
+  - first:
+      213: -7553092554646835099
+    second: pngtree-gold-arrow-up-png-image_14602775_148
+  - first:
+      213: -8538355672260250266
+    second: pngtree-gold-arrow-up-png-image_14602775_149
+  - first:
+      213: 3492752989747178018
+    second: pngtree-gold-arrow-up-png-image_14602775_150
+  - first:
+      213: 909972980081857083
+    second: pngtree-gold-arrow-up-png-image_14602775_151
+  - first:
+      213: 1506583148677612138
+    second: pngtree-gold-arrow-up-png-image_14602775_152
+  - first:
+      213: 5175972029610969809
+    second: pngtree-gold-arrow-up-png-image_14602775_153
+  - first:
+      213: -7001487494140948720
+    second: pngtree-gold-arrow-up-png-image_14602775_154
+  - first:
+      213: 1527295179844106427
+    second: pngtree-gold-arrow-up-png-image_14602775_155
+  - first:
+      213: 8477717047583882776
+    second: pngtree-gold-arrow-up-png-image_14602775_156
+  - first:
+      213: -4482842699193228380
+    second: pngtree-gold-arrow-up-png-image_14602775_157
+  - first:
+      213: -3652936118971067632
+    second: pngtree-gold-arrow-up-png-image_14602775_158
+  - first:
+      213: -6371593488200447504
+    second: pngtree-gold-arrow-up-png-image_14602775_159
+  - first:
+      213: -4531283026260465730
+    second: pngtree-gold-arrow-up-png-image_14602775_160
+  - first:
+      213: 3105308355609731569
+    second: pngtree-gold-arrow-up-png-image_14602775_161
+  - first:
+      213: 5570819988861246051
+    second: pngtree-gold-arrow-up-png-image_14602775_162
+  - first:
+      213: -881923588228047359
+    second: pngtree-gold-arrow-up-png-image_14602775_163
+  - first:
+      213: -2259812161715033332
+    second: pngtree-gold-arrow-up-png-image_14602775_164
+  - first:
+      213: -5873031832051862379
+    second: pngtree-gold-arrow-up-png-image_14602775_165
+  - first:
+      213: -6820223665209324436
+    second: pngtree-gold-arrow-up-png-image_14602775_166
+  - first:
+      213: 5202454848865586296
+    second: pngtree-gold-arrow-up-png-image_14602775_167
+  - first:
+      213: -1517725463848435319
+    second: pngtree-gold-arrow-up-png-image_14602775_168
+  - first:
+      213: -1076132078115732775
+    second: pngtree-gold-arrow-up-png-image_14602775_169
+  - first:
+      213: 2892118203629568672
+    second: pngtree-gold-arrow-up-png-image_14602775_170
+  - first:
+      213: -7430055500968870449
+    second: pngtree-gold-arrow-up-png-image_14602775_171
+  - first:
+      213: -5436292392627126612
+    second: pngtree-gold-arrow-up-png-image_14602775_172
+  - first:
+      213: 2515811127224383316
+    second: pngtree-gold-arrow-up-png-image_14602775_173
+  - first:
+      213: 3335529466335822306
+    second: pngtree-gold-arrow-up-png-image_14602775_174
+  - first:
+      213: -400799952330904417
+    second: pngtree-gold-arrow-up-png-image_14602775_175
+  - first:
+      213: -3120275269363384165
+    second: pngtree-gold-arrow-up-png-image_14602775_176
+  - first:
+      213: 3818847720401289850
+    second: pngtree-gold-arrow-up-png-image_14602775_177
+  - first:
+      213: -2547321498899472289
+    second: pngtree-gold-arrow-up-png-image_14602775_178
+  - first:
+      213: 566396287662034355
+    second: pngtree-gold-arrow-up-png-image_14602775_179
+  - first:
+      213: 5804957385999029137
+    second: pngtree-gold-arrow-up-png-image_14602775_180
+  - first:
+      213: -786362893573481223
+    second: pngtree-gold-arrow-up-png-image_14602775_181
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46954833289ef8e0800000000000000
+      internalID: -1657720335790401973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b87073124eef2a30800000000000000
+      internalID: 4192831745666611378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ca081678d82a840800000000000000
+      internalID: 5233901329553861703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a38c67be1b0e5400800000000000000
+      internalID: 314701250516779945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8108c2e1b933c0e60800000000000000
+      internalID: 7929769785211781144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dee4240a9f0a3a0800000000000000
+      internalID: -6656045782551040610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_6
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a16b36963d163b0800000000000000
+      internalID: -5520899218581612014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a2de55eae69da70800000000000000
+      internalID: 8852228237618391613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_8
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c841e50ed710de480800000000000000
+      internalID: -8868430451075836788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a63df453473b630800000000000000
+      internalID: 3941621871200660112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_10
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2365
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ba811b57c6f9f70800000000000000
+      internalID: 9196188216851999565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_11
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e7d2fc0dd5bf1b0800000000000000
+      internalID: -5621796558431486459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_12
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2397
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a0b4b4301aa9d30800000000000000
+      internalID: 4439037418247228019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0b9177f3d2b6c70800000000000000
+      internalID: 8965309233815466219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85abe289a5c19cc0800000000000000
+      internalID: -3705963686512581238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_15
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7471e1e8323b589f0800000000000000
+      internalID: -466770021073414329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775a7e5720ed293a0800000000000000
+      internalID: -6660016796778125961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_17
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39168334d6a36f780800000000000000
+      internalID: -8649661793364844141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_18
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6243f647a01c52410800000000000000
+      internalID: 1451778705544131622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_19
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2308
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91777bb186de5f440800000000000000
+      internalID: 4969138795270600473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_20
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6751624a814bf66e0800000000000000
+      internalID: -1842055704645069450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ddc750f64ffdb00800000000000000
+      internalID: 855671211894300031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_22
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2faad470a97eb80800000000000000
+      internalID: -8365548426658909533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c203cbdd5a233820800000000000000
+      internalID: 2896705567936676553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_24
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5fc8dd43e8c8420800000000000000
+      internalID: 2633636239811343815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_25
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91a9668f4594d800800000000000000
+      internalID: 636297616156107165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_26
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ddfc1fca3faea90800000000000000
+      internalID: -7283741523201499878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_27
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2247
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4961c3207fa9ba60800000000000000
+      internalID: 7690370734882908491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_28
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2278
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc93a785cdc80870800000000000000
+      internalID: 8649389332632935629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e61670a7e3d9250800000000000000
+      internalID: 5952982976284421675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8ef33a1386afa20800000000000000
+      internalID: 3096902256172198123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_31
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3908e6617e3a9220800000000000000
+      internalID: 2493374000481700159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_32
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da74a98d5192fc80800000000000000
+      internalID: -8290404133108417833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_33
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d747a6bd18aaa6290800000000000000
+      internalID: -7896311521932053379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_34
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7f7797729bcfff0800000000000000
+      internalID: -922320714074136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_35
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2162
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32132eea5e0c13040800000000000000
+      internalID: 4625690385000313123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_36
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eff8335d40b3ca40800000000000000
+      internalID: 5387343425420460006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58eb1656014237e0800000000000000
+      internalID: -1787294606642386850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_38
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2111
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac99d986a4582ef0800000000000000
+      internalID: -132763114753385311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_39
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1a71d6ff850eb60800000000000000
+      internalID: 7773310810911646192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_40
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2111
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce7a1109c986b1b0800000000000000
+      internalID: -5641169986835022137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_41
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e0f3dd0afbf1fa0800000000000000
+      internalID: -5827728695166562793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_42
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2111
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c504b0ff319f5020800000000000000
+      internalID: 2332742835808503232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_43
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8aa1f1da8dcdfc0800000000000000
+      internalID: -3468659374919341838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_44
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2111
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc5756fdb89930c0800000000000000
+      internalID: -4595474003105719115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_45
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cba4fbab235f5d40800000000000000
+      internalID: 5575266310741601220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_46
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501d1051ccae29290800000000000000
+      internalID: -7884981835325648635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_47
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28014f85bedb82770800000000000000
+      internalID: 8586321508089204866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a815405fa413c4d20800000000000000
+      internalID: 3264038027944808842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_49
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9cd9a46fa51a6b0800000000000000
+      internalID: -5286844473695942218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_50
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7b8ba32b2181de0800000000000000
+      internalID: -1362318330580912161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_51
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee08dbe1c1aa845e0800000000000000
+      internalID: -1925101802949345042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_52
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6b48eca7b197e50800000000000000
+      internalID: 6807502526011979490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_53
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16518bccc624feb0800000000000000
+      internalID: -4687078651156408804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1999
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cdcafa415a6d290800000000000000
+      internalID: -7865918190890722187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_55
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d5ce542abe2ad20800000000000000
+      internalID: 3288449760124231043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_56
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1999
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd92fe75c6ede1460800000000000000
+      internalID: 7214448210007239133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_57
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8d5eb5822062e30800000000000000
+      internalID: 4478269251830274229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_58
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1999
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c3a89ad6d9d2330800000000000000
+      internalID: 3687776764207709253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_59
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b2f0be75be71160800000000000000
+      internalID: 6996319308981676947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_60
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1999
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4964f12c3b850ca50800000000000000
+      internalID: 6539324188021180052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_61
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c666a71a27c1685e0800000000000000
+      internalID: -1907806113483823508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776489e5f83905a00800000000000000
+      internalID: 743256182492776055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_63
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1764
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f7fe9118e7b8090800000000000000
+      internalID: -8031186417534140592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_64
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1789
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b683a9c02fb85dd0800000000000000
+      internalID: -2497035845834144077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_65
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 443
+        width: 1351
+        height: 1522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81a993235037d3b0800000000000000
+      internalID: -5487864487289970289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_66
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a17d589f5c484130800000000000000
+      internalID: 3551172279643500966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_67
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1764
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342c5b6812d6b2a40800000000000000
+      internalID: 5344485373566632515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_68
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1789
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61dc5cd7ed4067f0800000000000000
+      internalID: -621411090347273877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_69
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1796
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe069141e125e4e0800000000000000
+      internalID: -1953117612043530564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_70
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1707
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eea6c86ff3109ea0800000000000000
+      internalID: -5868168326768316700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_71
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1744
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acf2a2f885f53fc0800000000000000
+      internalID: -3515633965557678942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_72
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1707
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce48c2f581963b5c0800000000000000
+      internalID: -4200898474009656084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_73
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1744
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb203cef02b69ee0800000000000000
+      internalID: -1254619664719270928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_74
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1646
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29995af7878f0380800000000000000
+      internalID: -9002828111999821523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_75
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1677
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c8af7abd9b425e0800000000000000
+      internalID: -1935217586795279236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_76
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1646
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488464d8ec6179a30800000000000000
+      internalID: 4221868252072396932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_77
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1677
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2de7b5b32a93900800000000000000
+      internalID: 664740795835667166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_78
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1561
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01da96d37d9e7e60800000000000000
+      internalID: 7961974312084885770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_79
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1313
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc8b06513923ac70800000000000000
+      internalID: 8981067373780634809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_80
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 1561
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc08dd715a356660800000000000000
+      internalID: 7378367686194498778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_81
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1313
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8644364ea0f402fa0800000000000000
+      internalID: -5827571009617443736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_82
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1485
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d419524a3b8e918c0800000000000000
+      internalID: -4027932533455482547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_83
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1510
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0610bf5ca49e7200800000000000000
+      internalID: 179744503202059790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_84
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1485
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941481465fa8e86d0800000000000000
+      internalID: -2986296716349128375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_85
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1510
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a0744eb16a1e870800000000000000
+      internalID: 8710425793035438742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_86
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1427
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98baaaa3e5d99f30800000000000000
+      internalID: 4582929269623797919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_87
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1465
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8b9c9f294b39bc0800000000000000
+      internalID: -3777477119084742457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_88
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1427
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ad1bd3e02b2a2f0800000000000000
+      internalID: -963011596069512664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_89
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1465
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f35c8c4c8f8c91e0800000000000000
+      internalID: -2189717486066445328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_90
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1367
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4970f752129873c30800000000000000
+      internalID: 4339087541450770324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1398
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907e19813ef5721c0800000000000000
+      internalID: -4528545471323314423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_92
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1398
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f862d21ff863de490800000000000000
+      internalID: -7715450594761300337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_93
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1368
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f64823334b4eef0800000000000000
+      internalID: -79740761401954558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_94
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1044
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d737e99dab8f941a0800000000000000
+      internalID: -6824650278904630403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_95
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1163
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ad9480bf8992e30800000000000000
+      internalID: 4479279508339939941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_96
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1188
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2996f73f3fac780800000000000000
+      internalID: -8661842706153499993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_97
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1044
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda1f0d34d3e1c680800000000000000
+      internalID: -8736451301425079589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_98
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1163
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029471480bade8500800000000000000
+      internalID: 400497868547770656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_99
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1188
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08339e46ed6092120800000000000000
+      internalID: 2389448629542269824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_100
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1195
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae15a34fc14eb930800000000000000
+      internalID: 4160835464185847467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_101
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1106
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504c0b79cdd139030800000000000000
+      internalID: 3500174168671962117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_102
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1143
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785b1780adca5f4a0800000000000000
+      internalID: -6560147229750741625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_103
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1106
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e96f4fdd2865660800000000000000
+      internalID: 7374225329674952232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_104
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1143
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd337e505a77762a0800000000000000
+      internalID: -6744290366311681061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_105
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1045
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322b379a93989e4a0800000000000000
+      internalID: -6563564101166714333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_106
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1076
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799349ef85dcfddb0800000000000000
+      internalID: -4764864098622752361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_107
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1045
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985ad5bd4679e7a30800000000000000
+      internalID: 4214972760698234249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_108
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1076
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea1a1e9bbc6d6600800000000000000
+      internalID: 463145889756224234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_109
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 960
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2166d52563377070800000000000000
+      internalID: 8104002563996016938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_110
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 712
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335e54c27b274d6a0800000000000000
+      internalID: -6425384637303495373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_111
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 960
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbddfa51610711890800000000000000
+      internalID: -7489081465184985669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_112
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 712
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f6e1193dd442b90800000000000000
+      internalID: -7267598327601008880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_113
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 884
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb46b7ebe153664b0800000000000000
+      internalID: -5447608293096987460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_114
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 909
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279d7ffea30f22470800000000000000
+      internalID: 8368515193532569970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_115
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 884
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca6ac03acc146150800000000000000
+      internalID: 5864844269470771905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_116
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 909
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374a301807607a980800000000000000
+      internalID: -8527840289132141453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_117
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 826
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74648c1935eea240800000000000000
+      internalID: 4805029885905233023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_118
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 864
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846e302e5c76ee0b0800000000000000
+      internalID: -5697502378978974136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_119
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 826
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e860954f20fc1cad0800000000000000
+      internalID: -2683636291339745650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_120
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 864
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d83422ecc9cfec0800000000000000
+      internalID: -3531775598613263071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_121
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 766
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb808bfac8ce0cd30800000000000000
+      internalID: 4449816520829700284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_122
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 797
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeeff5d7ae8cabe0800000000000000
+      internalID: -1464638927301251396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_123
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 797
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd91e7abdfd8b4a0800000000000000
+      internalID: -6577261121267196464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_124
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0ec666644c623c0800000000000000
+      internalID: -4384601380553432876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_125
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffbedf1c2d60c8e0800000000000000
+      internalID: -1675219025101144068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_126
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4216a05487db5fe70800000000000000
+      internalID: 9148426542325063972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_127
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 587
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac3ca506f4c01b60800000000000000
+      internalID: 7714882722621832357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_128
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716278ffe4797c320800000000000000
+      internalID: 2578195677243188759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_129
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 562
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3882b33ace8cba3d0800000000000000
+      internalID: -3194238592012834685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_130
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 587
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fce5653918dac20800000000000000
+      internalID: 3219371778449002288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_131
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 594
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3000a8a39dc95acb0800000000000000
+      internalID: -4853300566617882621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_132
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 505
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe478d470637e4d0800000000000000
+      internalID: -3105454013055283464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_133
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 542
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c327f9828ddc870800000000000000
+      internalID: 8704851323762392125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_134
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 505
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941dc72e6263c5f30800000000000000
+      internalID: 4565583662883328329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_135
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 542
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf596591602df83f0800000000000000
+      internalID: -896266877186697733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_136
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 444
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32badf8dfb970a150800000000000000
+      internalID: 5881834978232085283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_137
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 475
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9612c6a2005d8440800000000000000
+      internalID: 4939692338613196447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_138
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 444
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b15054978c582e70800000000000000
+      internalID: 9090617585225978289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_139
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 475
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626dd58d60b44cb20800000000000000
+      internalID: 3153728131838105126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_140
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d0ad1f741cd8ea0800000000000000
+      internalID: -5868822224649450081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_141
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7562b29f6ca21360800000000000000
+      internalID: 7138957954538169722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_142
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9784b1279debb23e0800000000000000
+      internalID: -2077356961969780615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_143
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8f4076162bb7470800000000000000
+      internalID: 8393498461945002197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_144
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5e1a08fc9839510800000000000000
+      internalID: 1554737820682282443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_145
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748414ff0917fbdd0800000000000000
+      internalID: -2468129203204044729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_146
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 359
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f859a04e46748790800000000000000
+      internalID: -7528762598592259854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_147
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4769a4e02f5925c0800000000000000
+      internalID: -4239752979312711860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_148
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560b0ace6560e2790800000000000000
+      internalID: -7553092554646835099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_149
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 308
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6657cf411caa18980800000000000000
+      internalID: -8538355672260250266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_150
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a601ab650c87030800000000000000
+      internalID: 3492752989747178018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_151
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 308
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b329bf8aa9fd0ac00800000000000000
+      internalID: 909972980081857083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_152
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62c489346578e410800000000000000
+      internalID: 1506583148677612138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_153
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 308
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dac150332fb4d740800000000000000
+      internalID: 5175972029610969809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_154
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f83643838b5de90800000000000000
+      internalID: -7001487494140948720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_155
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 308
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb836c5cfda023510800000000000000
+      internalID: 1527295179844106427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_156
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eb287ecb6e6a570800000000000000
+      internalID: 8477717047583882776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_157
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a362a2f05eb9c1c0800000000000000
+      internalID: -4482842699193228380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_158
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013198134f92e4dc0800000000000000
+      internalID: -3652936118971067632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_159
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9ce9a0b7d8397a0800000000000000
+      internalID: -6371593488200447504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_160
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7ecfa6816ad11c0800000000000000
+      internalID: -4531283026260465730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_161
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1ab2e2f75481b20800000000000000
+      internalID: 3105308355609731569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_162
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a58bfa3478f4d40800000000000000
+      internalID: 5570819988861246051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_163
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e11ac4b27c2c3f0800000000000000
+      internalID: -881923588228047359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_164
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b2ed9dfc883a0e0800000000000000
+      internalID: -2259812161715033332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_165
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594bcf75aacce7ea0800000000000000
+      internalID: -5873031832051862379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_166
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c4c7a26b2b951a0800000000000000
+      internalID: -6820223665209324436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_167
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c44aa0f15d23840800000000000000
+      internalID: 5202454848865586296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_168
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981cfbc5bb4ffeae0800000000000000
+      internalID: -1517725463848435319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_169
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d24288939fc011f0800000000000000
+      internalID: -1076132078115732775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_170
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 165
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a208cfde2ed22820800000000000000
+      internalID: 2892118203629568672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_171
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd305353e323e890800000000000000
+      internalID: -7430055500968870449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_172
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 166
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae3d422fd86e84b0800000000000000
+      internalID: -5436292392627126612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_173
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4573f2014e4f9e220800000000000000
+      internalID: 2515811127224383316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_174
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e18bc2906e2a4e20800000000000000
+      internalID: 3335529466335822306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_175
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ca25f1192107af0800000000000000
+      internalID: -400799952330904417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_176
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90c828ac2e82b4d0800000000000000
+      internalID: -3120275269363384165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_177
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7244d1c4c54ff430800000000000000
+      internalID: 3818847720401289850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_178
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50a161d79816acd0800000000000000
+      internalID: -2547321498899472289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_179
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd02383c6e3cd700800000000000000
+      internalID: 566396287662034355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_180
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19390c09cf95f8050800000000000000
+      internalID: 5804957385999029137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-gold-arrow-up-png-image_14602775_181
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc11085d174615f0800000000000000
+      internalID: -786362893573481223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-gold-arrow-up-png-image_14602775_0: -1657720335790401973
+      pngtree-gold-arrow-up-png-image_14602775_1: 4192831745666611378
+      pngtree-gold-arrow-up-png-image_14602775_10: 9196188216851999565
+      pngtree-gold-arrow-up-png-image_14602775_100: 4160835464185847467
+      pngtree-gold-arrow-up-png-image_14602775_101: 3500174168671962117
+      pngtree-gold-arrow-up-png-image_14602775_102: -6560147229750741625
+      pngtree-gold-arrow-up-png-image_14602775_103: 7374225329674952232
+      pngtree-gold-arrow-up-png-image_14602775_104: -6744290366311681061
+      pngtree-gold-arrow-up-png-image_14602775_105: -6563564101166714333
+      pngtree-gold-arrow-up-png-image_14602775_106: -4764864098622752361
+      pngtree-gold-arrow-up-png-image_14602775_107: 4214972760698234249
+      pngtree-gold-arrow-up-png-image_14602775_108: 463145889756224234
+      pngtree-gold-arrow-up-png-image_14602775_109: 8104002563996016938
+      pngtree-gold-arrow-up-png-image_14602775_11: -5621796558431486459
+      pngtree-gold-arrow-up-png-image_14602775_110: -6425384637303495373
+      pngtree-gold-arrow-up-png-image_14602775_111: -7489081465184985669
+      pngtree-gold-arrow-up-png-image_14602775_112: -7267598327601008880
+      pngtree-gold-arrow-up-png-image_14602775_113: -5447608293096987460
+      pngtree-gold-arrow-up-png-image_14602775_114: 8368515193532569970
+      pngtree-gold-arrow-up-png-image_14602775_115: 5864844269470771905
+      pngtree-gold-arrow-up-png-image_14602775_116: -8527840289132141453
+      pngtree-gold-arrow-up-png-image_14602775_117: 4805029885905233023
+      pngtree-gold-arrow-up-png-image_14602775_118: -5697502378978974136
+      pngtree-gold-arrow-up-png-image_14602775_119: -2683636291339745650
+      pngtree-gold-arrow-up-png-image_14602775_12: 4439037418247228019
+      pngtree-gold-arrow-up-png-image_14602775_120: -3531775598613263071
+      pngtree-gold-arrow-up-png-image_14602775_121: 4449816520829700284
+      pngtree-gold-arrow-up-png-image_14602775_122: -1464638927301251396
+      pngtree-gold-arrow-up-png-image_14602775_123: -6577261121267196464
+      pngtree-gold-arrow-up-png-image_14602775_124: -4384601380553432876
+      pngtree-gold-arrow-up-png-image_14602775_125: -1675219025101144068
+      pngtree-gold-arrow-up-png-image_14602775_126: 9148426542325063972
+      pngtree-gold-arrow-up-png-image_14602775_127: 7714882722621832357
+      pngtree-gold-arrow-up-png-image_14602775_128: 2578195677243188759
+      pngtree-gold-arrow-up-png-image_14602775_129: -3194238592012834685
+      pngtree-gold-arrow-up-png-image_14602775_13: 8965309233815466219
+      pngtree-gold-arrow-up-png-image_14602775_130: 3219371778449002288
+      pngtree-gold-arrow-up-png-image_14602775_131: -4853300566617882621
+      pngtree-gold-arrow-up-png-image_14602775_132: -3105454013055283464
+      pngtree-gold-arrow-up-png-image_14602775_133: 8704851323762392125
+      pngtree-gold-arrow-up-png-image_14602775_134: 4565583662883328329
+      pngtree-gold-arrow-up-png-image_14602775_135: -896266877186697733
+      pngtree-gold-arrow-up-png-image_14602775_136: 5881834978232085283
+      pngtree-gold-arrow-up-png-image_14602775_137: 4939692338613196447
+      pngtree-gold-arrow-up-png-image_14602775_138: 9090617585225978289
+      pngtree-gold-arrow-up-png-image_14602775_139: 3153728131838105126
+      pngtree-gold-arrow-up-png-image_14602775_14: -3705963686512581238
+      pngtree-gold-arrow-up-png-image_14602775_140: -5868822224649450081
+      pngtree-gold-arrow-up-png-image_14602775_141: 7138957954538169722
+      pngtree-gold-arrow-up-png-image_14602775_142: -2077356961969780615
+      pngtree-gold-arrow-up-png-image_14602775_143: 8393498461945002197
+      pngtree-gold-arrow-up-png-image_14602775_144: 1554737820682282443
+      pngtree-gold-arrow-up-png-image_14602775_145: -2468129203204044729
+      pngtree-gold-arrow-up-png-image_14602775_146: -7528762598592259854
+      pngtree-gold-arrow-up-png-image_14602775_147: -4239752979312711860
+      pngtree-gold-arrow-up-png-image_14602775_148: -7553092554646835099
+      pngtree-gold-arrow-up-png-image_14602775_149: -8538355672260250266
+      pngtree-gold-arrow-up-png-image_14602775_15: -466770021073414329
+      pngtree-gold-arrow-up-png-image_14602775_150: 3492752989747178018
+      pngtree-gold-arrow-up-png-image_14602775_151: 909972980081857083
+      pngtree-gold-arrow-up-png-image_14602775_152: 1506583148677612138
+      pngtree-gold-arrow-up-png-image_14602775_153: 5175972029610969809
+      pngtree-gold-arrow-up-png-image_14602775_154: -7001487494140948720
+      pngtree-gold-arrow-up-png-image_14602775_155: 1527295179844106427
+      pngtree-gold-arrow-up-png-image_14602775_156: 8477717047583882776
+      pngtree-gold-arrow-up-png-image_14602775_157: -4482842699193228380
+      pngtree-gold-arrow-up-png-image_14602775_158: -3652936118971067632
+      pngtree-gold-arrow-up-png-image_14602775_159: -6371593488200447504
+      pngtree-gold-arrow-up-png-image_14602775_16: -6660016796778125961
+      pngtree-gold-arrow-up-png-image_14602775_160: -4531283026260465730
+      pngtree-gold-arrow-up-png-image_14602775_161: 3105308355609731569
+      pngtree-gold-arrow-up-png-image_14602775_162: 5570819988861246051
+      pngtree-gold-arrow-up-png-image_14602775_163: -881923588228047359
+      pngtree-gold-arrow-up-png-image_14602775_164: -2259812161715033332
+      pngtree-gold-arrow-up-png-image_14602775_165: -5873031832051862379
+      pngtree-gold-arrow-up-png-image_14602775_166: -6820223665209324436
+      pngtree-gold-arrow-up-png-image_14602775_167: 5202454848865586296
+      pngtree-gold-arrow-up-png-image_14602775_168: -1517725463848435319
+      pngtree-gold-arrow-up-png-image_14602775_169: -1076132078115732775
+      pngtree-gold-arrow-up-png-image_14602775_17: -8649661793364844141
+      pngtree-gold-arrow-up-png-image_14602775_170: 2892118203629568672
+      pngtree-gold-arrow-up-png-image_14602775_171: -7430055500968870449
+      pngtree-gold-arrow-up-png-image_14602775_172: -5436292392627126612
+      pngtree-gold-arrow-up-png-image_14602775_173: 2515811127224383316
+      pngtree-gold-arrow-up-png-image_14602775_174: 3335529466335822306
+      pngtree-gold-arrow-up-png-image_14602775_175: -400799952330904417
+      pngtree-gold-arrow-up-png-image_14602775_176: -3120275269363384165
+      pngtree-gold-arrow-up-png-image_14602775_177: 3818847720401289850
+      pngtree-gold-arrow-up-png-image_14602775_178: -2547321498899472289
+      pngtree-gold-arrow-up-png-image_14602775_179: 566396287662034355
+      pngtree-gold-arrow-up-png-image_14602775_18: 1451778705544131622
+      pngtree-gold-arrow-up-png-image_14602775_180: 5804957385999029137
+      pngtree-gold-arrow-up-png-image_14602775_181: -786362893573481223
+      pngtree-gold-arrow-up-png-image_14602775_19: 4969138795270600473
+      pngtree-gold-arrow-up-png-image_14602775_2: 5233901329553861703
+      pngtree-gold-arrow-up-png-image_14602775_20: -1842055704645069450
+      pngtree-gold-arrow-up-png-image_14602775_21: 855671211894300031
+      pngtree-gold-arrow-up-png-image_14602775_22: -8365548426658909533
+      pngtree-gold-arrow-up-png-image_14602775_23: 2896705567936676553
+      pngtree-gold-arrow-up-png-image_14602775_24: 2633636239811343815
+      pngtree-gold-arrow-up-png-image_14602775_25: 636297616156107165
+      pngtree-gold-arrow-up-png-image_14602775_26: -7283741523201499878
+      pngtree-gold-arrow-up-png-image_14602775_27: 7690370734882908491
+      pngtree-gold-arrow-up-png-image_14602775_28: 8649389332632935629
+      pngtree-gold-arrow-up-png-image_14602775_29: 5952982976284421675
+      pngtree-gold-arrow-up-png-image_14602775_3: 314701250516779945
+      pngtree-gold-arrow-up-png-image_14602775_30: 3096902256172198123
+      pngtree-gold-arrow-up-png-image_14602775_31: 2493374000481700159
+      pngtree-gold-arrow-up-png-image_14602775_32: -8290404133108417833
+      pngtree-gold-arrow-up-png-image_14602775_33: -7896311521932053379
+      pngtree-gold-arrow-up-png-image_14602775_34: -922320714074136
+      pngtree-gold-arrow-up-png-image_14602775_35: 4625690385000313123
+      pngtree-gold-arrow-up-png-image_14602775_36: 5387343425420460006
+      pngtree-gold-arrow-up-png-image_14602775_37: -1787294606642386850
+      pngtree-gold-arrow-up-png-image_14602775_38: -132763114753385311
+      pngtree-gold-arrow-up-png-image_14602775_39: 7773310810911646192
+      pngtree-gold-arrow-up-png-image_14602775_4: 7929769785211781144
+      pngtree-gold-arrow-up-png-image_14602775_40: -5641169986835022137
+      pngtree-gold-arrow-up-png-image_14602775_41: -5827728695166562793
+      pngtree-gold-arrow-up-png-image_14602775_42: 2332742835808503232
+      pngtree-gold-arrow-up-png-image_14602775_43: -3468659374919341838
+      pngtree-gold-arrow-up-png-image_14602775_44: -4595474003105719115
+      pngtree-gold-arrow-up-png-image_14602775_45: 5575266310741601220
+      pngtree-gold-arrow-up-png-image_14602775_46: -7884981835325648635
+      pngtree-gold-arrow-up-png-image_14602775_47: 8586321508089204866
+      pngtree-gold-arrow-up-png-image_14602775_48: 3264038027944808842
+      pngtree-gold-arrow-up-png-image_14602775_49: -5286844473695942218
+      pngtree-gold-arrow-up-png-image_14602775_5: -6656045782551040610
+      pngtree-gold-arrow-up-png-image_14602775_50: -1362318330580912161
+      pngtree-gold-arrow-up-png-image_14602775_51: -1925101802949345042
+      pngtree-gold-arrow-up-png-image_14602775_52: 6807502526011979490
+      pngtree-gold-arrow-up-png-image_14602775_53: -4687078651156408804
+      pngtree-gold-arrow-up-png-image_14602775_54: -7865918190890722187
+      pngtree-gold-arrow-up-png-image_14602775_55: 3288449760124231043
+      pngtree-gold-arrow-up-png-image_14602775_56: 7214448210007239133
+      pngtree-gold-arrow-up-png-image_14602775_57: 4478269251830274229
+      pngtree-gold-arrow-up-png-image_14602775_58: 3687776764207709253
+      pngtree-gold-arrow-up-png-image_14602775_59: 6996319308981676947
+      pngtree-gold-arrow-up-png-image_14602775_6: -5520899218581612014
+      pngtree-gold-arrow-up-png-image_14602775_60: 6539324188021180052
+      pngtree-gold-arrow-up-png-image_14602775_61: -1907806113483823508
+      pngtree-gold-arrow-up-png-image_14602775_62: 743256182492776055
+      pngtree-gold-arrow-up-png-image_14602775_63: -8031186417534140592
+      pngtree-gold-arrow-up-png-image_14602775_64: -2497035845834144077
+      pngtree-gold-arrow-up-png-image_14602775_65: -5487864487289970289
+      pngtree-gold-arrow-up-png-image_14602775_66: 3551172279643500966
+      pngtree-gold-arrow-up-png-image_14602775_67: 5344485373566632515
+      pngtree-gold-arrow-up-png-image_14602775_68: -621411090347273877
+      pngtree-gold-arrow-up-png-image_14602775_69: -1953117612043530564
+      pngtree-gold-arrow-up-png-image_14602775_7: 8852228237618391613
+      pngtree-gold-arrow-up-png-image_14602775_70: -5868168326768316700
+      pngtree-gold-arrow-up-png-image_14602775_71: -3515633965557678942
+      pngtree-gold-arrow-up-png-image_14602775_72: -4200898474009656084
+      pngtree-gold-arrow-up-png-image_14602775_73: -1254619664719270928
+      pngtree-gold-arrow-up-png-image_14602775_74: -9002828111999821523
+      pngtree-gold-arrow-up-png-image_14602775_75: -1935217586795279236
+      pngtree-gold-arrow-up-png-image_14602775_76: 4221868252072396932
+      pngtree-gold-arrow-up-png-image_14602775_77: 664740795835667166
+      pngtree-gold-arrow-up-png-image_14602775_78: 7961974312084885770
+      pngtree-gold-arrow-up-png-image_14602775_79: 8981067373780634809
+      pngtree-gold-arrow-up-png-image_14602775_8: -8868430451075836788
+      pngtree-gold-arrow-up-png-image_14602775_80: 7378367686194498778
+      pngtree-gold-arrow-up-png-image_14602775_81: -5827571009617443736
+      pngtree-gold-arrow-up-png-image_14602775_82: -4027932533455482547
+      pngtree-gold-arrow-up-png-image_14602775_83: 179744503202059790
+      pngtree-gold-arrow-up-png-image_14602775_84: -2986296716349128375
+      pngtree-gold-arrow-up-png-image_14602775_85: 8710425793035438742
+      pngtree-gold-arrow-up-png-image_14602775_86: 4582929269623797919
+      pngtree-gold-arrow-up-png-image_14602775_87: -3777477119084742457
+      pngtree-gold-arrow-up-png-image_14602775_88: -963011596069512664
+      pngtree-gold-arrow-up-png-image_14602775_89: -2189717486066445328
+      pngtree-gold-arrow-up-png-image_14602775_9: 3941621871200660112
+      pngtree-gold-arrow-up-png-image_14602775_90: 4339087541450770324
+      pngtree-gold-arrow-up-png-image_14602775_91: -4528545471323314423
+      pngtree-gold-arrow-up-png-image_14602775_92: -7715450594761300337
+      pngtree-gold-arrow-up-png-image_14602775_93: -79740761401954558
+      pngtree-gold-arrow-up-png-image_14602775_94: -6824650278904630403
+      pngtree-gold-arrow-up-png-image_14602775_95: 4479279508339939941
+      pngtree-gold-arrow-up-png-image_14602775_96: -8661842706153499993
+      pngtree-gold-arrow-up-png-image_14602775_97: -8736451301425079589
+      pngtree-gold-arrow-up-png-image_14602775_98: 400497868547770656
+      pngtree-gold-arrow-up-png-image_14602775_99: 2389448629542269824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
