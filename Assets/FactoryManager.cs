@@ -9,27 +9,42 @@ public class FactoryManager : MonoBehaviour
 {
     //Income/Expense | Shareholder requests Shareholder requests | Employees/Employee Income | Automation/Cost | Day
     [Header("Values")]
+    [HideInInspector]
     public int money;
     
+    [HideInInspector]
     public int income;
+    [HideInInspector]
     public int expenses;
     
+    [HideInInspector]
     public string shareholderRequest;
     
+    [HideInInspector]
     public int employees;
+    [HideInInspector]
     public int employeeCost;
     
+    [HideInInspector]
     public int automatons;
+    [HideInInspector]
     public int automatonCost;
     
+    [HideInInspector]
     public int day;
     
+    [HideInInspector]
     public int productRate;
+    [HideInInspector]
     public int productPrice;
+    [HideInInspector]
     private float _timer;
     
+    [HideInInspector]
     public Station[] allStations;
+    [HideInInspector]
     public List<Station> stations;
+    [HideInInspector]
     private float _automationPercent;
 
     [Header("Changers")] public float term; //how many seconds per day
@@ -38,6 +53,11 @@ public class FactoryManager : MonoBehaviour
 
     public TextMeshProUGUI infoText;
     public Slider timeSlider;
+
+    public GameObject purchaseFloater; //floats up when buy shii
+
+    public TextMeshProUGUI statsMoney;
+    public TextMeshProUGUI statsIncome;
 
     [Header("Tabs")] 
     public GameObject stats;
@@ -49,6 +69,9 @@ public class FactoryManager : MonoBehaviour
 
     public int employeeProductionRate;
     public int automationProductionRate;
+    
+    public int automationBaseCost;
+    public int employeeBaseCost;
 
     void Start()
     {
@@ -73,6 +96,9 @@ public class FactoryManager : MonoBehaviour
         }
 
         timeSlider.value = _timer;
+        
+        statsMoney.text = "$" + money;
+        statsIncome.text = "+$" + income+"/day";
     }
 
     public void IncrementDay()
@@ -124,15 +150,21 @@ public class FactoryManager : MonoBehaviour
 
     public void BuyWorker()
     {
-        employees++;
-
-        foreach (Station allStns in allStations)
+        if (money >= employeeBaseCost)
         {
-            if (!stations.Contains(allStns))
+            money -= employeeBaseCost;
+            MoneyFloat("-$",  employeeBaseCost, Color.red);
+            
+            employees++;
+
+            foreach (Station allStns in allStations)
             {
-                stations.Add(allStns);
-                RefreshWorkers();
-                return;
+                if (!stations.Contains(allStns))
+                {
+                    stations.Add(allStns);
+                    RefreshWorkers();
+                    return;
+                }
             }
         }
     }
@@ -144,5 +176,15 @@ public class FactoryManager : MonoBehaviour
             stst.stationStatus = 1;
             stst.RefreshWorker();
         }
+    }
+
+    public void MoneyFloat(string preText, int amount, Color textColor)
+    {
+        GameObject mf =
+        Instantiate(purchaseFloater, transform.position, Quaternion.identity);
+        TextMeshProUGUI mt =  mf.GetComponentInChildren<TextMeshProUGUI>();
+        mt.text = preText+amount;;
+        mt.color = textColor;
+        mt.transform.SetParent(transform);
     }
 }

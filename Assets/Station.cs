@@ -6,10 +6,12 @@ public class Station : MonoBehaviour
     public GameObject automaton;
 
     public int stationStatus; //0-empty, 1-worker, 2-automaton
+
+    private FactoryManager manager;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        manager=FindFirstObjectByType<FactoryManager>();
     }
 
     // Update is called once per frame
@@ -20,10 +22,15 @@ public class Station : MonoBehaviour
 
     public void ReplaceWorker()
     {
-        stationStatus ++;
-        FindFirstObjectByType<FactoryManager>().employees--;
-        FindFirstObjectByType<FactoryManager>().automatons++;
-        RefreshWorker();
+        if (manager.money >= manager.automationBaseCost)
+        {
+            manager.money -= manager.automationBaseCost;
+            manager.MoneyFloat("-$", manager.automationBaseCost, Color.red);
+            stationStatus++;
+            FindFirstObjectByType<FactoryManager>().employees--;
+            FindFirstObjectByType<FactoryManager>().automatons++;
+            RefreshWorker();
+        }
     }
 
     public void RefreshWorker()
