@@ -23,11 +23,10 @@ public class Station : MonoBehaviour
         stationStatus ++;
         FindFirstObjectByType<FactoryManager>().employees--;
         FindFirstObjectByType<FactoryManager>().automatons++;
-        FindFirstObjectByType<FactoryManager>().stations.Remove(this);
-        RefreshWorkers();
+        RefreshWorker();
     }
 
-    public void RefreshWorkers()
+    public void RefreshWorker()
     {
         if (stationStatus == 1)
         {

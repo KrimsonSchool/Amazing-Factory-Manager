@@ -2,32 +2,35 @@ using System.Collections.Generic;
 using NUnit.Framework;
 using TMPro;
 using UnityEngine;
+using UnityEngine.Serialization;
 using UnityEngine.UI;
 
 public class FactoryManager : MonoBehaviour
 {
     //Income/Expense | Shareholder requests Shareholder requests | Employees/Employee Income | Automation/Cost | Day
-    [Header("Values")] public int money;
-
+    [Header("Values")]
+    public int money;
+    
     public int income;
     public int expenses;
-
+    
     public string shareholderRequest;
-
+    
     public int employees;
     public int employeeCost;
-
+    
     public int automatons;
     public int automatonCost;
-
+    
     public int day;
-
+    
     public int productRate;
     public int productPrice;
-
-    private float timer;
-
+    private float _timer;
+    
+    public Station[] allStations;
     public List<Station> stations;
+    private float _automationPercent;
 
     [Header("Changers")] public float term; //how many seconds per day
 
@@ -36,18 +39,21 @@ public class FactoryManager : MonoBehaviour
     public TextMeshProUGUI infoText;
     public Slider timeSlider;
 
-    [Header("Tabs")] public GameObject Stats;
-    public GameObject Management;
+    [Header("Tabs")] 
+    public GameObject stats;
+    public GameObject management;
 
-    [Header("Values")] public int employeeWage;
+    [Header("Values")] 
+    public int employeeWage;
     public int automationWage;
 
     public int employeeProductionRate;
     public int automationProductionRate;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        allStations = FindObjectsByType<Station>(FindObjectsInactive.Include, FindObjectsSortMode.InstanceID);
+        
         IncrementDay();
 
         //individual employee cost: $96 per person a day ($12*8)
@@ -57,17 +63,16 @@ public class FactoryManager : MonoBehaviour
         //automaton product rate: 22 a day
     }
 
-    // Update is called once per frame
     void Update()
     {
-        timer += Time.deltaTime;
-        if (timer >= term)
+        _timer += Time.deltaTime;
+        if (_timer >= term)
         {
             IncrementDay();
-            timer = 0;
+            _timer = 0;
         }
 
-        timeSlider.value = timer;
+        timeSlider.value = _timer;
     }
 
     public void IncrementDay()
@@ -85,8 +90,15 @@ public class FactoryManager : MonoBehaviour
         money += income;
         money -= expenses;
 
-        infoText.text =
-            $"Factory Automation: ??%\n\nProductivity: {productRate} Products / s\n({employees}workers, {automatons} machines)\n\nIncome: + ${income}\n(workers cost: ${employeeCost}, machines Cost: ${automatonCost}, expenses: ${fees})\n\nMoney: ${money}";
+        float c1 = automatons + employees;
+        if (c1 > 0)
+        {
+            float c2 = automatons / c1;
+            _automationPercent = c2 * 100;
+        }
+
+        infoText.text = 
+            $"Factory Automation: {_automationPercent}%\n\nProductivity: {productRate} Products / s\n({employees} workers, {automatons} machines)\n\nIncome: + ${income}\n(workers cost: ${employeeCost}, machines Cost: ${automatonCost}, expenses: ${fees})\n\nMoney: ${money}";
 
         /*"Money: $" + money + " | Income/Expenses: +" + income + "/-" + expenses +
                         " :: $" + (income - expenses) + " | Shareholder Requests: " + shareholderRequest +
@@ -98,32 +110,31 @@ public class FactoryManager : MonoBehaviour
 
     public void SwitchTabs()
     {
-        if (Stats.activeSelf)
+        if (stats.activeSelf)
         {
-            Stats.SetActive(false);
-            Management.SetActive(true);
+            stats.SetActive(false);
+            management.SetActive(true);
         }
         else
         {
-            Stats.SetActive(true);
-            Management.SetActive(false);
+            stats.SetActive(true);
+            management.SetActive(false);
         }
     }
 
     public void BuyWorker()
     {
         employees++;
-        
-        if (!stations.Contains(FindFirstObjectByType<Station>()))
-        {
-            stations.Add(FindFirstObjectByType<Station>());
-        }
-        else
-        {
-            //try agin to find other obj.... IDK....
-        }
 
-        RefreshWorkers();
+        foreach (Station allStns in allStations)
+        {
+            if (!stations.Contains(allStns))
+            {
+                stations.Add(allStns);
+                RefreshWorkers();
+                return;
+            }
+        }
     }
 
     public void RefreshWorkers()
@@ -131,7 +142,7 @@ public class FactoryManager : MonoBehaviour
         foreach (Station stst in stations)
         {
             stst.stationStatus = 1;
-            stst.RefreshWorkers();
+            stst.RefreshWorker();
         }
     }
 }
