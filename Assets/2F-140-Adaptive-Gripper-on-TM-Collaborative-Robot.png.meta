@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      2F-140-Adaptive-Gripper-on-TM-Collaborative-Robot_0: -3218340865018642494
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
