@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using NUnit.Framework;
 using TMPro;
 using UnityEngine;
@@ -74,6 +75,7 @@ public class FactoryManager : MonoBehaviour
     void Start()
     {
         allStations = FindObjectsByType<Station>(FindObjectsInactive.Include, FindObjectsSortMode.InstanceID);
+        System.Array.Sort(allStations, (a,b) => a.gameObject.name.CompareTo(b.gameObject.name));
         
         IncrementDay();
 

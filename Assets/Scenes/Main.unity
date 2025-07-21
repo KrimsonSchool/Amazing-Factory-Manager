@@ -969,7 +969,7 @@ MonoBehaviour:
   - {fileID: 503155823}
   - {fileID: 1003456113}
   - {fileID: 596635786}
-  employeeWage: 15
+  employeeWage: 20
   automationWage: 5
   employeeProductionRate: 5
   automationProductionRate: 15
@@ -2669,7 +2669,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1003456114
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5006,7 +5006,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c3da3fe81dba47449053476d34f8c74, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  box: {fileID: 0}
+  box: {fileID: 8843103887480150630, guid: 840b0a173d8383a52a568badd2f789ae, type: 3}
   boxes: []
 --- !u!1 &1949582314
 GameObject:
@@ -5690,6 +5690,10 @@ PrefabInstance:
     - target: {fileID: 6976322328154567940, guid: c93aab8218fde8264a64c21368eba8ed, type: 3}
       propertyPath: m_Name
       value: Station1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7441736678946044589, guid: c93aab8218fde8264a64c21368eba8ed, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8247364970387402056, guid: c93aab8218fde8264a64c21368eba8ed, type: 3}
       propertyPath: m_Pivot.x
