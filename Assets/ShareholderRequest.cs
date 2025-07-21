@@ -26,8 +26,10 @@ public class ShareholderRequest : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if ((fm.employees >= minWorkers && fm.employees < maxWorkers) &&
-            (fm.automatons >= minAutomtons && fm.automatons < maxAutomtons))
+        print("employees: " + fm.employees + " automatons: " + fm.automatons);
+        
+        if ((fm.employees >= minWorkers && fm.employees <= maxWorkers) &&
+            (fm.automatons >= minAutomtons && fm.automatons <= maxAutomtons))
         {
             isActive = true;
         }

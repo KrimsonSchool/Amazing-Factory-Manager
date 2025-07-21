@@ -35,7 +35,7 @@ public class FactoryManager : MonoBehaviour
     
     [HideInInspector]
     public int productRate;
-    [HideInInspector]
+    //[HideInInspector]
     public int productPrice;
     [HideInInspector]
     private float _timer;
@@ -59,9 +59,7 @@ public class FactoryManager : MonoBehaviour
     public TextMeshProUGUI statsMoney;
     public TextMeshProUGUI statsIncome;
 
-    [Header("Tabs")] 
-    public GameObject stats;
-    public GameObject management;
+    [Header("Tabs")] public GameObject[] setTabs;
 
     [Header("Values")] 
     public int employeeWage;
@@ -78,6 +76,8 @@ public class FactoryManager : MonoBehaviour
         allStations = FindObjectsByType<Station>(FindObjectsInactive.Include, FindObjectsSortMode.InstanceID);
         
         IncrementDay();
+
+        money = 10;
 
         //individual employee cost: $96 per person a day ($12*8)
         //Individual automaton cost: $43
@@ -134,18 +134,13 @@ public class FactoryManager : MonoBehaviour
                         " | Day: " + day;*/
     }
 
-    public void SwitchTabs()
+    public void SwitchTabs(int tab)
     {
-        if (stats.activeSelf)
+        foreach (var t in setTabs)
         {
-            stats.SetActive(false);
-            management.SetActive(true);
+            t.SetActive(false);
         }
-        else
-        {
-            stats.SetActive(true);
-            management.SetActive(false);
-        }
+        setTabs[tab].SetActive(true);
     }
 
     public void BuyWorker()
