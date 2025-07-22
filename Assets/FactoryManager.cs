@@ -3,6 +3,7 @@ using System.Linq;
 using NUnit.Framework;
 using TMPro;
 using UnityEngine;
+using UnityEngine.InputSystem.Android;
 using UnityEngine.Serialization;
 using UnityEngine.UI;
 
@@ -72,8 +73,15 @@ public class FactoryManager : MonoBehaviour
     public int automationBaseCost;
     public int employeeBaseCost;
 
+    public float[] xPositions;
+    private int currentIndex;
+    private float currentY;
+
+    public GameObject workerObject;
+    public GameObject workerHolder;
     void Start()
     {
+        currentY = 1107;
         allStations = FindObjectsByType<Station>(FindObjectsInactive.Include, FindObjectsSortMode.InstanceID);
         System.Array.Sort(allStations, (a,b) => a.gameObject.name.CompareTo(b.gameObject.name));
         
@@ -147,13 +155,17 @@ public class FactoryManager : MonoBehaviour
 
     public void BuyWorker()
     {
+        //y = 151    -240
+        //instantiate worker, -670, -387, -122, 142, 386, 678
+        //then move down -391
         if (money >= employeeBaseCost)
         {
             money -= employeeBaseCost;
             MoneyFloat("-$",  employeeBaseCost, Color.red);
             
             employees++;
-
+            SpawnWorker();
+            
             foreach (Station allStns in allStations)
             {
                 if (!stations.Contains(allStns))
@@ -183,5 +195,22 @@ public class FactoryManager : MonoBehaviour
         mt.text = preText+amount;;
         mt.color = textColor;
         mt.transform.SetParent(transform);
+    }
+
+    public void SpawnWorker()
+    {
+        print("Spawn Worker");
+        Vector3 spawnPosition = new Vector2(xPositions[currentIndex], currentY);
+        GameObject wrkr = Instantiate(workerObject, workerHolder.transform);
+        wrkr.GetComponent<RectTransform>().anchoredPosition = spawnPosition;
+        wrkr.GetComponent<Station>().stationStatus = 1;
+        wrkr.GetComponent<Station>().RefreshWorker();
+        
+        currentIndex++;
+        if (currentIndex >= 6)
+        {
+            currentIndex = 0;
+            currentY -= 391;
+        }
     }
 }

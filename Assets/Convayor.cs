@@ -27,7 +27,7 @@ public class Convayor : MonoBehaviour
         timer += Time.deltaTime;
         if (timer > spawnInterval)
         {
-            print("speed: "+spawnInterval);
+            //print("speed: "+spawnInterval);
             GameObject bx = Instantiate(box, Vector2.zero,  Quaternion.identity);
             bx.transform.SetParent(transform);
             bx.GetComponent<RectTransform>().anchoredPosition = new Vector2(-1045, 134);

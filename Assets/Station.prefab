@@ -198,7 +198,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Replace with Automation
+  m_text: Replace with Automation ($150)
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -321,6 +321,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   worker: {fileID: 8689423681806525528}
   automaton: {fileID: 7441736678946044589}
+  stationStatus: 0
 --- !u!1 &7441736678946044589
 GameObject:
   m_ObjectHideFlags: 0
