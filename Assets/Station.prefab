@@ -225,7 +225,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 18.45
+  m_fontSize: 15.5
   m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -460,7 +460,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: a26bdb87dd3019b2c97a2bb7b6183150, type: 3}
+  m_Texture: {fileID: 2800000, guid: 47e50fad73150ed5791e71dced1b90e6, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0

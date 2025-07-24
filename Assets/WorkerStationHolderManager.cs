@@ -40,7 +40,7 @@ public class WorkerStationHolderManager : MonoBehaviour
         
         if (workerCount > 14) {
             downButton.SetActive(true);
-            moveDist = 496.53f + Mathf.Floor((workerCount - 14) / 7f) * 496.53f;        
+            moveDist = 496.53f + Mathf.Floor((workerCount - 8) / 7f) * 496.53f;        
         }
     }
 
@@ -50,6 +50,10 @@ public class WorkerStationHolderManager : MonoBehaviour
         print("Moving to: " + moveDist);
         workerHolder.transform.position += new Vector3(0, 496.53f);
 
+        if (workerHolder.transform.position.y > moveDist)
+        {
+            workerHolder.transform.position = new Vector2(workerHolder.transform.position.x, moveDist-68.06f);
+        }
         /*workerHolder.transform.position = new Vector3(
             workerHolder.transform.position.x,
             Mathf.Clamp(workerHolder.transform.position.y, moveDist, 0f),
