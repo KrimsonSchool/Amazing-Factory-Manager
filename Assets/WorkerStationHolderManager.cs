@@ -34,7 +34,7 @@ public class WorkerStationHolderManager : MonoBehaviour
     {
         //print("Current pos: " + transform.position.y);
 
-        workerCount = fm.employees;
+        workerCount = fm.employees + fm.automatons;
         
         moveDistText.text = "Dist: "+ moveDist;
         
