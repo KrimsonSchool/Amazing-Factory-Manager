@@ -42,17 +42,25 @@ public class WorkerStationHolderManager : MonoBehaviour
             downButton.SetActive(true);
             moveDist = 496.53f + Mathf.Floor((workerCount - 8) / 7f) * 496.53f;        
         }
+
+
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            print("Pos: "+workerHolder.transform.position.y);
+        }
     }
 
     //move down 496.53, max out at moveDist
+    //491.245
     public void MoveDown()
     {
         print("Moving to: " + moveDist);
-        workerHolder.transform.position += new Vector3(0, 496.53f);
+        workerHolder.transform.position += new Vector3(0, 491.245f);
 
         if (workerHolder.transform.position.y > moveDist)
         {
-            workerHolder.transform.position = new Vector2(workerHolder.transform.position.x, moveDist-68.06f);
+            workerHolder.transform.position = new Vector2(workerHolder.transform.position.x, moveDist-81.075f);
         }
         /*workerHolder.transform.position = new Vector3(
             workerHolder.transform.position.x,
@@ -64,11 +72,11 @@ public class WorkerStationHolderManager : MonoBehaviour
     public void MoveUp()
     {
         print(workerHolder.transform.position.y);
-        workerHolder.transform.position -= new Vector3(0, 496.53f);
+        workerHolder.transform.position -= new Vector3(0, 491.245f);
 
         if (workerHolder.transform.position.y < 428.47f)
         {
-            workerHolder.transform.position = new Vector2(workerHolder.transform.position.x, 428.47f);
+            workerHolder.transform.position = new Vector2(workerHolder.transform.position.x, 415.455f);
         }
     }
 }
