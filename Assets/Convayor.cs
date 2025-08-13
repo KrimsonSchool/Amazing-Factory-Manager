@@ -30,7 +30,7 @@ public class Convayor : MonoBehaviour
             //print("speed: "+spawnInterval);
             GameObject bx = Instantiate(box, Vector2.zero,  Quaternion.identity);
             bx.transform.SetParent(transform);
-            bx.GetComponent<RectTransform>().anchoredPosition = new Vector2(-1045, 134);
+            bx.GetComponent<RectTransform>().anchoredPosition = new Vector2(-480, 90);
             boxes.Add(bx);
             timer = 0;
         }

@@ -73,7 +73,7 @@ public class FactoryManager : MonoBehaviour
 
     void Start()
     {
-        //currentY = 200;
+        currentY = -40;
 
         IncrementDay();
 
@@ -219,7 +219,7 @@ public class FactoryManager : MonoBehaviour
         {
             if (stst.stationStatus == 1)
             {
-                stst.morale -= (stst.moraleMax / 5);
+                stst.morale -= (stst.moraleMax / 3.5f);
             }
         }
     }
