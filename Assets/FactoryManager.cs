@@ -71,6 +71,8 @@ public class FactoryManager : MonoBehaviour
     private int currentIndex;
     private float currentY;
 
+   // public GameObject sparkFX;
+
     void Start()
     {
         currentY = -40;
@@ -99,6 +101,8 @@ public class FactoryManager : MonoBehaviour
 
         statsMoney.text = "$" + money;
         statsIncome.text = "+$" + income + "/day";
+        
+        
     }
 
     public void IncrementDay()

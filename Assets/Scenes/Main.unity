@@ -1788,6 +1788,7 @@ GameObject:
   - component: {fileID: 503155824}
   - component: {fileID: 503155826}
   - component: {fileID: 503155825}
+  - component: {fileID: 503155827}
   m_Layer: 5
   m_Name: Stats
   m_TagString: Untagged
@@ -1858,6 +1859,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 503155823}
   m_CullTransparentMesh: 1
+--- !u!114 &503155827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 503155823}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1785e8680ffff3a3b76512cb201be50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sparkFX: {fileID: 6544927616340406989, guid: bbf75fd5f0e341656b2b7ee47a6897b0, type: 3}
 --- !u!1 &514516322
 GameObject:
   m_ObjectHideFlags: 0
@@ -2368,6 +2382,7 @@ GameObject:
   - component: {fileID: 596635789}
   - component: {fileID: 596635788}
   - component: {fileID: 596635790}
+  - component: {fileID: 596635791}
   m_Layer: 5
   m_Name: Factory Quota
   m_TagString: Untagged
@@ -2455,6 +2470,19 @@ MonoBehaviour:
   - {fileID: 1025528205}
   - {fileID: 26408911}
   shareholderRequest: {fileID: 766457832}
+--- !u!114 &596635791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 596635786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1785e8680ffff3a3b76512cb201be50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sparkFX: {fileID: 6544927616340406989, guid: bbf75fd5f0e341656b2b7ee47a6897b0, type: 3}
 --- !u!1 &610185716
 GameObject:
   m_ObjectHideFlags: 0
