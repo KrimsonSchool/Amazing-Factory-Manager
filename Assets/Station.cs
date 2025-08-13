@@ -50,6 +50,11 @@ public class Station : MonoBehaviour
         {
             prodRate = 0;
         }
+
+        if (morale >= moraleMax - (moraleMax / 4))
+        {
+            RefreshWorker();
+        }
     }
 
     public void ReplaceWorker()

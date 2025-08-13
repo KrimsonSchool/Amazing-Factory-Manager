@@ -1152,7 +1152,7 @@ MonoBehaviour:
   productRate: 0
   productPrice: 5
   stations: []
-  term: 1
+  term: 30
   fees: 0
   infoText: {fileID: 408078464}
   timeSlider: {fileID: 1764474843}
@@ -4218,7 +4218,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minWorkers: 25
-  maxWorkers: 25
+  maxWorkers: 9999
   minAutomtons: 0
   maxAutomtons: 0
   request: Hire your first Automaton, they are more efficient and cost less than

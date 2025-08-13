@@ -100,9 +100,7 @@ public class FactoryManager : MonoBehaviour
         timeSlider.value = _timer;
 
         statsMoney.text = "$" + money;
-        statsIncome.text = "+$" + income + "/day";
-        
-        
+        statsIncome.text = "+$" + (income - expenses) + "/day";
     }
 
     public void IncrementDay()
