@@ -60,4 +60,15 @@ public class WorkerStationHolderManager : MonoBehaviour
             workerHolder.transform.position.z);
             */
     }
+
+    public void MoveUp()
+    {
+        print(workerHolder.transform.position.y);
+        workerHolder.transform.position -= new Vector3(0, 496.53f);
+
+        if (workerHolder.transform.position.y < 428.47f)
+        {
+            workerHolder.transform.position = new Vector2(workerHolder.transform.position.x, 428.47f);
+        }
+    }
 }

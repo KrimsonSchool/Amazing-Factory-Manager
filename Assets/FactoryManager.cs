@@ -9,44 +9,31 @@ using UnityEngine.UI;
 public class FactoryManager : MonoBehaviour
 {
     //Income/Expense | Shareholder requests Shareholder requests | Employees/Employee Income | Automation/Cost | Day
-    [Header("Values")]
-    [HideInInspector]
-    public int money;
-    
-    [HideInInspector]
-    public int income;
-    [HideInInspector]
-    public int expenses;
-    
-    [HideInInspector]
-    public string shareholderRequest;
-    
-    [HideInInspector]
-    public int employees;
-    [HideInInspector]
-    public int employeeCost;
-    
-    [HideInInspector]
-    public int automatons;
-    [HideInInspector]
-    public int automatonCost;
-    
-    [HideInInspector]
-    public int day;
-    
-    [HideInInspector]
-    public int productRate;
+    [Header("Values")] [HideInInspector] public int money;
+
+    [HideInInspector] public int income;
+
+    [HideInInspector] public int expenses;
+
+    [HideInInspector] public string shareholderRequest;
+
+    [HideInInspector] public int employees;
+
+    [HideInInspector] public int employeeCost;
+
+    [HideInInspector] public int automatons;
+
+    [HideInInspector] public int automatonCost;
+
+    [HideInInspector] public int day;
+
+    [HideInInspector] public int productRate;
+
     //[HideInInspector]
     public int productPrice;
-    [HideInInspector]
-    private float _timer;
-    
-    [HideInInspector]
-    public Station[] allStations;
-    [HideInInspector]
+
+    //[HideInInspector]
     public List<Station> stations;
-    [HideInInspector]
-    private float _automationPercent;
 
     [Header("Changers")] public float term; //how many seconds per day
 
@@ -62,28 +49,32 @@ public class FactoryManager : MonoBehaviour
 
     [Header("Tabs")] public GameObject[] setTabs;
 
-    [Header("Values")] 
-    public int employeeWage;
+    [Header("Values")] public int employeeWage;
+
     public int automationWage;
 
     public int employeeProductionRate;
     public int automationProductionRate;
-    
+
     public int automationBaseCost;
     public int employeeBaseCost;
 
     public float[] xPositions;
-    private int currentIndex;
-    private float currentY;
 
     public GameObject workerObject;
     public GameObject workerHolder;
+
+    [HideInInspector] private float _automationPercent;
+
+    [HideInInspector] private float _timer;
+
+    private int currentIndex;
+    private float currentY;
+
     void Start()
     {
-        currentY = 1107;
-        allStations = FindObjectsByType<Station>(FindObjectsInactive.Include, FindObjectsSortMode.InstanceID);
-        System.Array.Sort(allStations, (a,b) => a.gameObject.name.CompareTo(b.gameObject.name));
-        
+        //currentY = 200;
+
         IncrementDay();
 
         money = 10;
@@ -105,9 +96,9 @@ public class FactoryManager : MonoBehaviour
         }
 
         timeSlider.value = _timer;
-        
+
         statsMoney.text = "$" + money;
-        statsIncome.text = "+$" + income+"/day";
+        statsIncome.text = "+$" + income + "/day";
     }
 
     public void IncrementDay()
@@ -116,7 +107,16 @@ public class FactoryManager : MonoBehaviour
         employeeCost = employeeWage * employees;
         automatonCost = automationWage * automatons;
 
-        productRate = employees * employeeProductionRate + (automatons * automationProductionRate);
+        //employees * employeeProductionRate -> basic way of prod rate
+        int prodRate =0;
+        foreach (Station sttns in stations)
+        {
+            if (sttns.stationStatus == 1)
+            {
+                prodRate += sttns.prodRate;
+            }
+        }
+        productRate = prodRate + (automatons * automationProductionRate);
         //product price should randomly go up/down
 
         expenses = employeeCost + automatonCost + fees;
@@ -132,8 +132,9 @@ public class FactoryManager : MonoBehaviour
             _automationPercent = c2 * 100;
         }
 
-        infoText.text = 
-            $"Factory Automation: {_automationPercent}%\n\nProductivity: {productRate} Products / s\n({employees} workers, {automatons} machines)\n\nIncome: + ${income}\n(workers cost: ${employeeCost}, machines Cost: ${automatonCost}, expenses: ${fees})\n\nMoney: ${money}";
+        infoText.text =
+            $"Factory Automation: {_automationPercent}%\n\nProductivity: {productRate} Products / s\n({employees} workers, {automatons} " +
+            $"machines)\n\nIncome: + ${income}\n(workers cost: ${employeeCost}, machines Cost: ${automatonCost}, expenses: ${fees})\n\nMoney: ${money}";
 
         /*"Money: $" + money + " | Income/Expenses: +" + income + "/-" + expenses +
                         " :: $" + (income - expenses) + " | Shareholder Requests: " + shareholderRequest +
@@ -149,6 +150,7 @@ public class FactoryManager : MonoBehaviour
         {
             t.SetActive(false);
         }
+
         setTabs[tab].SetActive(true);
     }
 
@@ -160,20 +162,13 @@ public class FactoryManager : MonoBehaviour
         if (money >= employeeBaseCost)
         {
             money -= employeeBaseCost;
-            MoneyFloat("-$",  employeeBaseCost, Color.red);
-            
+            MoneyFloat("-$", employeeBaseCost, Color.red);
+
             employees++;
-            SpawnWorker();
-            
-            foreach (Station allStns in allStations)
-            {
-                if (!stations.Contains(allStns))
-                {
-                    stations.Add(allStns);
-                    RefreshWorkers();
-                    return;
-                }
-            }
+            Station st = SpawnWorker();
+
+            print("Adding station");
+            stations.Add(st);
         }
     }
 
@@ -189,27 +184,43 @@ public class FactoryManager : MonoBehaviour
     public void MoneyFloat(string preText, int amount, Color textColor)
     {
         GameObject mf =
-        Instantiate(purchaseFloater, transform.position, Quaternion.identity);
-        TextMeshProUGUI mt =  mf.GetComponentInChildren<TextMeshProUGUI>();
-        mt.text = preText+amount;;
+            Instantiate(purchaseFloater, transform.position, Quaternion.identity);
+        TextMeshProUGUI mt = mf.GetComponentInChildren<TextMeshProUGUI>();
+        mt.text = preText + amount;
+        ;
         mt.color = textColor;
         mt.transform.SetParent(transform);
     }
 
-    public void SpawnWorker()
+    public Station SpawnWorker()
     {
-        print("Spawn Worker");
+        print("Spawn Worker at " + currentY);
         Vector3 spawnPosition = new Vector2(xPositions[currentIndex], currentY);
         GameObject wrkr = Instantiate(workerObject, workerHolder.transform);
         wrkr.GetComponent<RectTransform>().anchoredPosition = spawnPosition;
         wrkr.GetComponent<Station>().stationStatus = 1;
-        wrkr.GetComponent<Station>().RefreshWorker();
-        
+        //wrkr.GetComponent<Station>().RefreshWorker();
+
         currentIndex++;
         if (currentIndex >= 6)
         {
             currentIndex = 0;
             currentY -= 391;
+        }
+        
+        return wrkr.GetComponent<Station>();
+    }
+
+    public void ReduceMorale()
+    {
+        print("Reduce Morale");
+        print(stations.Count);
+        foreach (Station stst in stations)
+        {
+            if (stst.stationStatus == 1)
+            {
+                stst.morale -= (stst.moraleMax / 5);
+            }
         }
     }
 }
