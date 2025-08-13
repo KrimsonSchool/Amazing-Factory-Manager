@@ -1,13 +1,19 @@
 fileFormatVersion: 2
-guid: 7b84679a7741dc39e8e5e3aee7dbd659
+guid: 8c04eb0c2efe8a150b81f78302abdf8c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 75498703270553739
-    second: convey2_0
+      213: 3060869741878512553
+    second: Worker SpriteIdle_0
   - first:
-      213: 152583445126357095
-    second: convey2_1
+      213: -4834178598810574959
+    second: Worker SpriteIdle_1
+  - first:
+      213: -2202508574784004667
+    second: Worker SpriteIdle_2
+  - first:
+      213: 5901643533022105482
+    second: Worker SpriteIdle_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,13 +135,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: convey2_0
+      name: Worker SpriteIdle_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 255
-        width: 512
-        height: 162
+        x: 79
+        y: 275
+        width: 98
+        height: 218
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,20 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b88a17daba93c0100800000000000000
-      internalID: 75498703270553739
+      spriteID: 9ab096420d46a7a20800000000000000
+      internalID: 3060869741878512553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: convey2_1
+      name: Worker SpriteIdle_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 257
-        height: 161
+        x: 335
+        y: 275
+        width: 98
+        height: 218
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,8 +172,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 760ac5db5d51e1200800000000000000
-      internalID: 152583445126357095
+      spriteID: 19f991d4d2c89ecb0800000000000000
+      internalID: -4834178598810574959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker SpriteIdle_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 98
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd5f31ee1e1f61e0800000000000000
+      internalID: -2202508574784004667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Worker SpriteIdle_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 19
+        width: 98
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f83c86689d6e150800000000000000
+      internalID: 5901643533022105482
       vertices: []
       indices: 
       edges: []
@@ -186,8 +236,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      convey2_0: 75498703270553739
-      convey2_1: 152583445126357095
+      Worker SpriteIdle_0: 3060869741878512553
+      Worker SpriteIdle_1: -4834178598810574959
+      Worker SpriteIdle_2: -2202508574784004667
+      Worker SpriteIdle_3: 5901643533022105482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

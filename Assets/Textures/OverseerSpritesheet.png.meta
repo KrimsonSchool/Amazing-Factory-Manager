@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 6193cb14b3c2f39afaae70a9f8e291b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 446703772778885132
+    second: OverseerSpritesheet_0
+  - first:
+      213: -1556835627438703896
+    second: OverseerSpritesheet_1
+  - first:
+      213: -7933864794856789869
+    second: OverseerSpritesheet_2
+  - first:
+      213: -406999698117137855
+    second: OverseerSpritesheet_3
+  - first:
+      213: 7232356800671461156
+    second: OverseerSpritesheet_4
+  - first:
+      213: 6479031654640973794
+    second: OverseerSpritesheet_5
+  - first:
+      213: 8847622649120483276
+    second: OverseerSpritesheet_6
+  - first:
+      213: -3867175738199222344
+    second: OverseerSpritesheet_7
+  - first:
+      213: 2887074716732904601
+    second: OverseerSpritesheet_8
+  - first:
+      213: -6759238216225122603
+    second: OverseerSpritesheet_9
+  - first:
+      213: -7497939679679526896
+    second: OverseerSpritesheet_10
+  - first:
+      213: -6609013952953471185
+    second: OverseerSpritesheet_11
+  - first:
+      213: 5359668958511806077
+    second: OverseerSpritesheet_12
+  - first:
+      213: 857343600815114115
+    second: OverseerSpritesheet_13
+  - first:
+      213: 3929107899796847373
+    second: OverseerSpritesheet_14
+  - first:
+      213: 1296320699873558119
+    second: OverseerSpritesheet_15
+  - first:
+      213: 8865134478914509577
+    second: OverseerSpritesheet_16
+  - first:
+      213: -841134373928503116
+    second: OverseerSpritesheet_17
+  - first:
+      213: -4149108336838322497
+    second: OverseerSpritesheet_18
+  - first:
+      213: -4114457501183221326
+    second: OverseerSpritesheet_19
+  - first:
+      213: 9219334719873265406
+    second: OverseerSpritesheet_20
+  - first:
+      213: 1463898164398058253
+    second: OverseerSpritesheet_21
+  - first:
+      213: 7595132462054297410
+    second: OverseerSpritesheet_22
+  - first:
+      213: 209558378236357040
+    second: OverseerSpritesheet_23
+  - first:
+      213: 2104534708304082100
+    second: OverseerSpritesheet_24
+  - first:
+      213: -4539623640563311722
+    second: OverseerSpritesheet_25
+  - first:
+      213: 4044775429909989607
+    second: OverseerSpritesheet_26
+  - first:
+      213: -5712507355194400241
+    second: OverseerSpritesheet_27
+  - first:
+      213: -558700599292841243
+    second: OverseerSpritesheet_28
+  - first:
+      213: 5132679660961795950
+    second: OverseerSpritesheet_29
+  - first:
+      213: 3545762909336255591
+    second: OverseerSpritesheet_30
+  - first:
+      213: 2080504061526352578
+    second: OverseerSpritesheet_31
+  - first:
+      213: 2874203652186802267
+    second: OverseerSpritesheet_32
+  - first:
+      213: -4004319751881421636
+    second: OverseerSpritesheet_33
+  - first:
+      213: 4912326546518341218
+    second: OverseerSpritesheet_34
+  - first:
+      213: 3999870048969382547
+    second: OverseerSpritesheet_35
+  - first:
+      213: -844366656823455239
+    second: OverseerSpritesheet_36
+  - first:
+      213: -3777860428185919991
+    second: OverseerSpritesheet_37
+  - first:
+      213: 2907574835498628265
+    second: OverseerSpritesheet_38
+  - first:
+      213: 1930376542075951866
+    second: OverseerSpritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OverseerSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1595
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00ff40f6b2033600800000000000000
+      internalID: 446703772778885132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1595
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaf7dcce32056ae0800000000000000
+      internalID: -1556835627438703896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1595
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3986596210045e190800000000000000
+      internalID: -7933864794856789869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1595
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a69025eeb0a5af0800000000000000
+      internalID: -406999698117137855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1595
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f27e8013e7e5460800000000000000
+      internalID: 7232356800671461156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1595
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7f26766f42ae950800000000000000
+      internalID: 6479031654640973794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1339
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7e6833ce119ca70800000000000000
+      internalID: 8847622649120483276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1339
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b750a0c728055ac0800000000000000
+      internalID: -3867175738199222344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1339
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99450e29823f01820800000000000000
+      internalID: 2887074716732904601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1339
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d618a187ac5232a0800000000000000
+      internalID: -6759238216225122603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1339
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018456d4697f1f790800000000000000
+      internalID: -7497939679679526896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1339
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fab9a63d01844a0800000000000000
+      internalID: -6609013952953471185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1083
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76b8c1658e516a40800000000000000
+      internalID: 5359668958511806077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1083
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870a096675e5eb00800000000000000
+      internalID: 857343600815114115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1083
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b729b41def68630800000000000000
+      internalID: 3929107899796847373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1083
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ef2feeec47df110800000000000000
+      internalID: 1296320699873558119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1083
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b54cdc6d8470b70800000000000000
+      internalID: 8865134478914509577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1083
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8fe915eb0b354f0800000000000000
+      internalID: -841134373928503116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 827
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6d32853f76b66c0800000000000000
+      internalID: -4149108336838322497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 827
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b16886b3b286e6c0800000000000000
+      internalID: -4114457501183221326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 827
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efea873e418a1ff70800000000000000
+      internalID: 9219334719873265406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 827
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bea4cdf9fc05410800000000000000
+      internalID: 1463898164398058253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 827
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fc8c6cbb4576960800000000000000
+      internalID: 7595132462054297410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 827
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b92c761c3088e200800000000000000
+      internalID: 209558378236357040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 571
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4f1f9ba2fc43d10800000000000000
+      internalID: 2104534708304082100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 571
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b1242d9540001c0800000000000000
+      internalID: -4539623640563311722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 571
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e84308c2dde12830800000000000000
+      internalID: 4044775429909989607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 571
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02e4dc93d819b0b0800000000000000
+      internalID: -5712507355194400241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 571
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e23a5bd3c81f38f0800000000000000
+      internalID: -558700599292841243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 571
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f008125f0fa3740800000000000000
+      internalID: 5132679660961795950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 315
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c3ebc6494153130800000000000000
+      internalID: 3545762909336255591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 315
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c22905cb6f6fdc10800000000000000
+      internalID: 2080504061526352578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 315
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5889b45ef833e720800000000000000
+      internalID: 2874203652186802267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 315
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc0706c66ccd68c0800000000000000
+      internalID: -4004319751881421636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 315
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26672f9a7f61c2440800000000000000
+      internalID: 4912326546518341218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 315
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a5b880e94628730800000000000000
+      internalID: 3999870048969382547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 59
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f19adfcff43844f0800000000000000
+      internalID: -844366656823455239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 59
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e19fed4f7529bc0800000000000000
+      internalID: -3777860428185919991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 59
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4b2cb68e7c95820800000000000000
+      internalID: 2907574835498628265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverseerSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 59
+        width: 250
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa1f29cc331aca10800000000000000
+      internalID: 1930376542075951866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OverseerSpritesheet_0: 446703772778885132
+      OverseerSpritesheet_1: -1556835627438703896
+      OverseerSpritesheet_10: -7497939679679526896
+      OverseerSpritesheet_11: -6609013952953471185
+      OverseerSpritesheet_12: 5359668958511806077
+      OverseerSpritesheet_13: 857343600815114115
+      OverseerSpritesheet_14: 3929107899796847373
+      OverseerSpritesheet_15: 1296320699873558119
+      OverseerSpritesheet_16: 8865134478914509577
+      OverseerSpritesheet_17: -841134373928503116
+      OverseerSpritesheet_18: -4149108336838322497
+      OverseerSpritesheet_19: -4114457501183221326
+      OverseerSpritesheet_2: -7933864794856789869
+      OverseerSpritesheet_20: 9219334719873265406
+      OverseerSpritesheet_21: 1463898164398058253
+      OverseerSpritesheet_22: 7595132462054297410
+      OverseerSpritesheet_23: 209558378236357040
+      OverseerSpritesheet_24: 2104534708304082100
+      OverseerSpritesheet_25: -4539623640563311722
+      OverseerSpritesheet_26: 4044775429909989607
+      OverseerSpritesheet_27: -5712507355194400241
+      OverseerSpritesheet_28: -558700599292841243
+      OverseerSpritesheet_29: 5132679660961795950
+      OverseerSpritesheet_3: -406999698117137855
+      OverseerSpritesheet_30: 3545762909336255591
+      OverseerSpritesheet_31: 2080504061526352578
+      OverseerSpritesheet_32: 2874203652186802267
+      OverseerSpritesheet_33: -4004319751881421636
+      OverseerSpritesheet_34: 4912326546518341218
+      OverseerSpritesheet_35: 3999870048969382547
+      OverseerSpritesheet_36: -844366656823455239
+      OverseerSpritesheet_37: -3777860428185919991
+      OverseerSpritesheet_38: 2907574835498628265
+      OverseerSpritesheet_39: 1930376542075951866
+      OverseerSpritesheet_4: 7232356800671461156
+      OverseerSpritesheet_5: 6479031654640973794
+      OverseerSpritesheet_6: 8847622649120483276
+      OverseerSpritesheet_7: -3867175738199222344
+      OverseerSpritesheet_8: 2887074716732904601
+      OverseerSpritesheet_9: -6759238216225122603
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

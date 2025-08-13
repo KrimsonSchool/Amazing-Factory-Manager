@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 5584670c46ed7fc0eba6e8520413ce78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6946814318071859281
+    second: FactoryMachine2 SpriteSheet_0
+  - first:
+      213: 1804076752537788315
+    second: FactoryMachine2 SpriteSheet_1
+  - first:
+      213: 4845565048784791796
+    second: FactoryMachine2 SpriteSheet_2
+  - first:
+      213: 7373907265810800967
+    second: FactoryMachine2 SpriteSheet_3
+  - first:
+      213: -7050964679799583631
+    second: FactoryMachine2 SpriteSheet_4
+  - first:
+      213: 8836957711875805333
+    second: FactoryMachine2 SpriteSheet_5
+  - first:
+      213: -7587866363256188926
+    second: FactoryMachine2 SpriteSheet_6
+  - first:
+      213: 6261082060763277404
+    second: FactoryMachine2 SpriteSheet_7
+  - first:
+      213: -151422581077951147
+    second: FactoryMachine2 SpriteSheet_8
+  - first:
+      213: -1594423707031757884
+    second: FactoryMachine2 SpriteSheet_9
+  - first:
+      213: 5085434279686475252
+    second: FactoryMachine2 SpriteSheet_10
+  - first:
+      213: -3182031248010887475
+    second: FactoryMachine2 SpriteSheet_11
+  - first:
+      213: 1513093758334052636
+    second: FactoryMachine2 SpriteSheet_12
+  - first:
+      213: -3390117895973167355
+    second: FactoryMachine2 SpriteSheet_13
+  - first:
+      213: -7311507222194780150
+    second: FactoryMachine2 SpriteSheet_14
+  - first:
+      213: 5893311134188785117
+    second: FactoryMachine2 SpriteSheet_15
+  - first:
+      213: -3512491069809565677
+    second: FactoryMachine2 SpriteSheet_16
+  - first:
+      213: -8891375610420470820
+    second: FactoryMachine2 SpriteSheet_17
+  - first:
+      213: 691717300872407079
+    second: FactoryMachine2 SpriteSheet_18
+  - first:
+      213: -2482778614857158554
+    second: FactoryMachine2 SpriteSheet_19
+  - first:
+      213: -4320645911453248639
+    second: FactoryMachine2 SpriteSheet_20
+  - first:
+      213: -6291804424408374426
+    second: FactoryMachine2 SpriteSheet_21
+  - first:
+      213: 5075365967999070275
+    second: FactoryMachine2 SpriteSheet_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1039
+        width: 210
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158454501da086060800000000000000
+      internalID: 6946814318071859281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1039
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f1e8e7f3e590910800000000000000
+      internalID: 1804076752537788315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1039
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8addc2db7ee3340800000000000000
+      internalID: 4845565048784791796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1039
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7412351f691655660800000000000000
+      internalID: 7373907265810800967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1039
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c48b83bf0f52e90800000000000000
+      internalID: -7050964679799583631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 783
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590918ff73e23aa70800000000000000
+      internalID: 8836957711875805333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 783
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200dafeaebb72b690800000000000000
+      internalID: -7587866363256188926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 783
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58ad5d26f4d3e650800000000000000
+      internalID: 6261082060763277404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 783
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d30ebf6f906edf0800000000000000
+      internalID: -151422581077951147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 783
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb19e806187fd9e0800000000000000
+      internalID: -1594423707031757884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 527
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd8e499887139640800000000000000
+      internalID: 5085434279686475252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 527
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce3e16607727d3d0800000000000000
+      internalID: -3182031248010887475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 527
+        width: 222
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19ac59a1c69ff410800000000000000
+      internalID: 1513093758334052636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 527
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f13d73cb1e3f0d0800000000000000
+      internalID: -3390117895973167355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 527
+        width: 222
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0880606bee488a90800000000000000
+      internalID: -7311507222194780150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 271
+        width: 222
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd4d20a04f39c150800000000000000
+      internalID: 5893311134188785117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 271
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310e4436bff114fc0800000000000000
+      internalID: -3512491069809565677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 271
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbd058adfc7b9480800000000000000
+      internalID: -8891375610420470820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 271
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728ed736839799900800000000000000
+      internalID: 691717300872407079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 271
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660b08d01066b8dd0800000000000000
+      internalID: -2482778614857158554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 15
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183d59f6f6bf904c0800000000000000
+      internalID: -4320645911453248639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 15
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66368ee16350fa8a0800000000000000
+      internalID: -6291804424408374426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine2 SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 15
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340f0bb15725f6640800000000000000
+      internalID: 5075365967999070275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FactoryMachine2 SpriteSheet_0: 6946814318071859281
+      FactoryMachine2 SpriteSheet_1: 1804076752537788315
+      FactoryMachine2 SpriteSheet_10: 5085434279686475252
+      FactoryMachine2 SpriteSheet_11: -3182031248010887475
+      FactoryMachine2 SpriteSheet_12: 1513093758334052636
+      FactoryMachine2 SpriteSheet_13: -3390117895973167355
+      FactoryMachine2 SpriteSheet_14: -7311507222194780150
+      FactoryMachine2 SpriteSheet_15: 5893311134188785117
+      FactoryMachine2 SpriteSheet_16: -3512491069809565677
+      FactoryMachine2 SpriteSheet_17: -8891375610420470820
+      FactoryMachine2 SpriteSheet_18: 691717300872407079
+      FactoryMachine2 SpriteSheet_19: -2482778614857158554
+      FactoryMachine2 SpriteSheet_2: 4845565048784791796
+      FactoryMachine2 SpriteSheet_20: -4320645911453248639
+      FactoryMachine2 SpriteSheet_21: -6291804424408374426
+      FactoryMachine2 SpriteSheet_22: 5075365967999070275
+      FactoryMachine2 SpriteSheet_3: 7373907265810800967
+      FactoryMachine2 SpriteSheet_4: -7050964679799583631
+      FactoryMachine2 SpriteSheet_5: 8836957711875805333
+      FactoryMachine2 SpriteSheet_6: -7587866363256188926
+      FactoryMachine2 SpriteSheet_7: 6261082060763277404
+      FactoryMachine2 SpriteSheet_8: -151422581077951147
+      FactoryMachine2 SpriteSheet_9: -1594423707031757884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
